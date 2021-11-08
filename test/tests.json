@@ -1,0 +1,10 @@
+{
+    "krc-eng": {
+        "input": "krc-eng-input.txt",
+        "mode": "krc-eng"
+    },
+    "eng-krc": {
+        "input": "eng-krc-input.txt",
+        "mode": "eng-krc"
+    }
+}
