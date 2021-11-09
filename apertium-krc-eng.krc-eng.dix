@@ -97,8 +97,27 @@
 
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
-      <e><p><l>house<s n="n"/></l><r>casa<s n="n"/><s n="f"/></r></p></e>
-
+      <e><p><l>bear<s n="n"/></l><r>айыу<s n="n"/></r></p></e>
+      <e><p><l>bear<s n="n"/></l><r>айю<s n="n"/></r></p></e>
+      <e><p><l>gold<s n="n"/></l><r>алтын<s n="n"/></r></p></e>
+      <e><p><l>mother<s n="n"/></l><r>ана<s n="n"/></r></p></e>
+      <e><p><l>father<s n="n"/></l><r>ата<s n="n"/></r></p></e>
+      <e><p><l>shot<s n="n"/></l><r>атыш<s n="n"/></r></p></e>
+      <e><p><l>mouth<s n="n"/></l><r>аууз<s n="n"/></r></p></e>
+      <e><p><l>copper<s n="n"/></l><r>багъыр<s n="n"/></r></p></e>
+      <e><p><l>axe<s n="n"/></l><r>балта<s n="n"/></r></p></e>
+      <e><p><l>finger<s n="n"/></l><r>бармакъ<s n="n"/></r></p></e>
+      <e><p><l>gland<s n="n"/></l><r>без<s n="n"/></r></p></e>
+      <e><p><l>cloud<s n="n"/></l><r>булут<s n="n"/></r></p></e>
+      <e><p><l>boy<s n="n"/></l><r>джаш<s n="n"/></r></p></e>
+      <e><p><l>son<s n="n"/></l><r>джаш<s n="n"/></r></p></e>
+      <e><p><l>ox<s n="n"/></l><r>ёгюз<s n="n"/></r></p></e>
+      <e><p><l>plant<s n="n"/></l><r>ёсюмлюк<s n="n"/></r></p></e>
+      <e><p><l>bread<s n="n"/></l><r>ётмек<s n="n"/></r></p></e>
+      <e><p><l>star<s n="n"/></l><r>жулдуз<s n="n"/></r></p></e>
+      <e><p><l>cow<s n="n"/></l><r>ийнек<s n="n"/></r></p></e>
+      <e><p><l>night<s n="n"/></l><r>кече<s n="n"/></r></p></e>
+      
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
       <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
    </section>
