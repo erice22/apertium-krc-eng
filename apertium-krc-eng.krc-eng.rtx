@@ -363,7 +363,9 @@ PP -> 1: %DP ?(1.case in might_get_pr)
       DP.*.loc.attr %DP { (if ($prep_flag not = NOpr)
                               [ *(pr)[lemh=$prep_flag, lemcase=$lemcase] _ ] )
                           2 _1 1 } |
-      "for X [time]" 8: num %dP.*.nom ?(2.lemh in ky_nouns_timeunit) { for@pr _ 1 _1 %2[number=1.number] }
+      "for X [time]" 8: num %dP.*.nom ?(2.lemh in ky_nouns_timeunit) { for@pr _ 1 _1 %2[number=1.number] } |
+      10: DP.*.gen %DP.*.px3sp { %2 _1 }
+
 ;
 
 DP VP -> DP.*.nom DP.*.acc DP.*.nom %vP
@@ -451,11 +453,11 @@ VP -> PP DP.[definiteness].prep_flag %vP { %3 _2 2 _1 1 } |
       4: DP.*.abl S %де@vP.*.prc %сура@vP { %4 _1 1 _2 2 }
 !      Speech %де@vP { %2 _1 1 } |
 !      Speech %де@vP.*.prc %vP { %3 _1 1 } |
-!      4: DP.*.abl Speech %де@vP.*.prc %сура@vP { %4 _1 1 _2 2 } 
+!      4: DP.*.abl Speech %де@vP.*.prc %сура@vP { %4 _1 1 _2 2 }
    ;
 
 !Speech -> S punct { 1 _1 2 } |
-!          S { 1 } 
+!          S { 1 }
 !   ;
 
 AdvP -> adj.advl.$advlevel [$adv_behaviour=NOadvB] {
