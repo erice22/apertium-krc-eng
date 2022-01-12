@@ -49,6 +49,10 @@
     <sdef n="du"              c="Dual"/>
     <sdef n="pl"              c="Plural"/>
     <sdef n="sp"              c="Singular / plural"/>
+   
+    <sdef n="tv"               c="Transitive Verb"/>
+    <sdef n="iv"               c="Inransitive Verb"/>
+
 
     <sdef n="ind"             c="Indefinite"/>
     <sdef n="def"             c="Definite"/>
@@ -94,7 +98,6 @@
     <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
   </sdefs>
-
    <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
       <!-- SECTION: Verbs-->
@@ -696,7 +699,7 @@
       <e><p><l>сютбаш<s n="n"/></l><r>cream<s n="n"/></r></p></e>
       <e><p><l>сюек<s n="n"/></l><r>bone<s n="n"/></r></p></e>
       <e><p><l>сюерге<s n="v"/></l><r>love<s n="vblex"/></r></p></e>
-      <e><p><l>сюз<s n="v"/><<s n="tv"/>/l><r>discuss<s n="vblex"/></r></p></e>
+      <e><p><l>сюз<s n="v"/><s n="tv"/></l><r>discuss<s n="vblex"/></r></p></e>
       <e><p><l>шиндик<s n="n"/></l><r>chair<s n="n"/></r></p></e>
       <e><p><l>шкъокъ<s n="n"/></l><r>gun<s n="n"/></r></p></e>
       <e><p><l>шоркъа<s n="n"/></l><r>current<s n="n"/></r></p></e>
