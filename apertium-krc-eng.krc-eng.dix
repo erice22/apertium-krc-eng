@@ -117,7 +117,7 @@
       <e><p><l>дагъыда<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
       <e><p><l>былай<s n="adv"/></l><r>like<b/>this<s n="adv"/></r></p></e>
       <e><p><l>ары<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
-      <e><p><l>алгъа<s n="adv"/></l><r><s n="adv"/></r></p></e>
+      <e><p><l>алгъа<s n="adv"/></l><r>ahead<s n="adv"/></r></p></e>
       <e><p><l>кёкге<s n="adv"/></l><r>up<s n="adv"/></r></p></e>
       <e><p><l>эрлай<s n="adv"/></l><r>quickly<s n="adv"/></r></p></e>
       <e><p><l>былайда<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
@@ -372,10 +372,10 @@
       <e><p><l>алыргъа<s n="v"/></l><r>take<s n="v"/></r></p></e>
       <e><p><l>алты<s n="num"/></l><r>six<s n="num"/></r></p></e>
       <e><p><l>алтмыш<s n="num"/></l><r>sixty<s n="num"/></r></p></e>
-      <e><p><l>аманат<s n="n"/></l><r>something held intrust<s n="n"/></r></p></e>
+      <e><p><l>аманат<s n="n"/></l><r>something held in trust<s n="n"/></r></p></e>
       <e><p><l>амма<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
-      <e><p><l>амалтын<s n="pr"/></l><r>becauseof<s n="pr"/></r></p></e>
-      <e><p><l>анакъарнаш<s n="n"/></l><r>maternal uncle<s n="n"/></r></p></e>
+      <e><p><l>амалтын<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
+      <e><p><l>анакъарнаш<s n="n"/></l><r>maternal<b/>uncle<s n="n"/></r></p></e>
       <e><p><l>ансы<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
       <e><p><l>ансы<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
       <e><p><l>ангы<s n="n"/></l><r>mind<s n="n"/></r></p></e>
@@ -432,12 +432,12 @@
       <e><p><l>бирлик<s n="n"/></l><r>unity<s n="n"/></r></p></e>
       <e><p><l>бишерге<s n="v"/></l><r>cook<s n="v"/></r></p></e>
       <e><p><l>биз<s n="prn"/></l><r>we<s n="prn"/></r></p></e>
-      <e><p><l>быжыл<s n="n"/></l><r>thisyear<s n="n"/></r></p></e>
+      <e><p><l>быжыл<s n="n"/></l><r>this<b/>year<s n="n"/></r></p></e>
       <e><p><l>была<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>была<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>былай<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>былайда<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
-      <e><p><l>былтыр<s n="n"/></l><r>last year<s n="n"/></r></p></e>
+      <e><p><l>былтыр<s n="n"/></l><r>last<b/>year<s n="n"/></r></p></e>
       <e><p><l>бла<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>бла<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>блай<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
@@ -481,8 +481,8 @@
       <e><p><l>эм<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>эмда<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>эмчек<s n="n"/></l><r>breast<s n="n"/></r></p></e>
-      <e><p><l>эмчекъана<s n="n"/></l><r>wet nurse<s n="n"/></r></p></e>
-      <e><p><l>эмчекъана<s n="n"/></l><r>foster mother<s n="n"/></r></p></e>
+      <e><p><l>эмчекъана<s n="n"/></l><r>wet<b/>nurse<s n="n"/></r></p></e>
+      <e><p><l>эмчекъана<s n="n"/></l><r>foster<b/>mother<s n="n"/></r></p></e>
       <e><p><l>энди<s n="adv"/></l><r>now<s n="adv"/></r></p></e>
       <e><p><l>эниш<s n="adv"/></l><r>downward<s n="adv"/></r></p></e>
       <e><p><l>эрирге<s n="v"/></l><r>digest<s n="v"/></r></p></e>
@@ -507,7 +507,7 @@
       <e><p><l>ишлерге<s n="v"/></l><r>complete<s n="v"/></r></p></e>
       <e><p><l>ийи<s n="n"/></l><r>scent<s n="n"/></r></p></e>
       <e><p><l>ийнам<s n="n"/></l><r>faith<s n="n"/></r></p></e>
-      <e><p><l>ийнам<s n="n"/></l><r>religious belief<s n="n"/></r></p></e>
+      <e><p><l>ийнам<s n="n"/></l><r>religious<b/>belief<s n="n"/></r></p></e>
       <e><p><l>*j̆anarga<s n="v"/></l><r>burn<s n="v"/></r></p></e>
       <e><p><l>*j̆anjï<s n="adj"/></l><r>new<s n="adj"/></r></p></e>
       <e><p><l>*j̆aŋur<s n="n"/></l><r>rain<s n="n"/></r></p></e>
@@ -572,11 +572,11 @@
       <e><p><l>къатын<s n="n"/></l><r>woman<s n="n"/></r></p></e>
       <e><p><l>къатыш<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>къайда<s n="adv"/></l><r>where<s n="adv"/></r></p></e>
-      <e><p><l>къайдан<s n="adv"/></l><r>where from<s n="adv"/></r></p></e>
-      <e><p><l>къайры<s n="adv"/></l><r>where to<s n="adv"/></r></p></e>
+      <e><p><l>къайдан<s n="adv"/></l><r>where<b/>from<s n="adv"/></r></p></e>
+      <e><p><l>къайры<s n="adv"/></l><r>where<b/>to<s n="adv"/></r></p></e>
       <e><p><l>къайсы<s n="prn"/></l><r>which<s n="prn"/></r></p></e>
-      <e><p><l>къайтыргъа<s n="v"/></l><r>turn back<s n="v"/></r></p></e>
-      <e><p><l>къазан<s n="n"/></l><r>copper kettel<s n="n"/></r></p></e>
+      <e><p><l>къайтыргъа<s n="v"/></l><r>turn<b/>back<s n="v"/></r></p></e>
+      <e><p><l>къазан<s n="n"/></l><r>copper<b/>kettel<s n="n"/></r></p></e>
       <e><p><l>къазаргъа<s n="v"/></l><r>dig<s n="v"/></r></p></e>
       <e><p><l>кече<s n="n"/></l><r>night<s n="n"/></r></p></e>
       <e><p><l>кегей<s n="n"/></l><r>spoke<s n="n"/></r></p></e>
@@ -593,7 +593,7 @@
       <e><p><l>кисен<s n="v"/></l><r>fetter<s n="v"/></r></p></e>
       <e><p><l>китап<s n="n"/></l><r>book<s n="n"/></r></p></e>
       <e><p><l>кийдирирге<s n="v"/></l><r>dress<s n="v"/></r></p></e>
-      <e><p><l>кийинирге<s n="v"/></l><r>get dressed<s n="v"/></r></p></e>
+      <e><p><l>кийинирге<s n="v"/></l><r>get<b/>dressed<s n="v"/></r></p></e>
       <e><p><l>къылы<s n="pr"/></l><r>becauseof<s n="pr"/></r></p></e>
       <e><p><l>къыр<s n="n"/></l><r>steppe<s n="n"/></r></p></e>
       <e><p><l>къырк<s n="num"/></l><r>forty<s n="num"/></r></p></e>
@@ -707,20 +707,20 @@
       <e><p><l>табан<s n="n"/></l><r>heel<s n="n"/></r></p></e>
       <e><p><l>табаргъа<s n="v"/></l><r>find<s n="v"/></r></p></e>
       <e><p><l>талеба<s n="n"/></l><r>student<s n="n"/></r></p></e>
-      <e><p><l>талыргъа<s n="v"/></l><r>become tired<s n="v"/></r></p></e>
+      <e><p><l>талыргъа<s n="v"/></l><r>become<b/>tired<s n="v"/></r></p></e>
       <e><p><l>тама<s n="n"/></l><r>drop<s n="n"/></r></p></e>
       <e><p><l>тамаргъа<s n="v"/></l><r>go<s n="v"/></r></p></e>
       <e><p><l>тамаргъа<s n="v"/></l><r>flow<s n="v"/></r></p></e>
       <e><p><l>тамбла<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
       <e><p><l>тамла<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
       <e><p><l>таш<s n="n"/></l><r>stone<s n="n"/></r></p></e>
-      <e><p><l>ташаргъа<s n="v"/></l><r>run through<s n="v"/></r></p></e>
+      <e><p><l>ташаргъа<s n="v"/></l><r>run<b/>through<s n="v"/></r></p></e>
       <e><p><l>тав<s n="n"/></l><r>mountan<s n="n"/></r></p></e>
       <e><p><l>тавуш<s n="n"/></l><r>sound<s n="n"/></r></p></e>
       <e><p><l>тай<s n="n"/></l><r>colt<s n="n"/></r></p></e>
       <e><p><l>таякъ<s n="n"/></l><r>ray<s n="n"/></r></p></e>
       <e><p><l>теббе<s n="n"/></l><r>top<s n="n"/></r></p></e>
-      <e><p><l>Теберди<s n="n"/></l><r>the Teberdi river<s n="n"/></r></p></e>
+      <e><p><l>Теберди<s n="n"/></l><r>the<b/>Teberdi<b/>river<s n="n"/></r></p></e>
       <e><p><l>тели<s n="adj"/></l><r>foolish<s n="adj"/></r></p></e>
       <e><p><l>тенгиз<s n="n"/></l><r>ocean<s n="n"/></r></p></e>
       <e><p><l>тепсерге<s n="v"/></l><r>dance<s n="v"/></r></p></e>
@@ -746,7 +746,7 @@
       <e><p><l>турургъа<s n="v"/></l><r>stand<s n="v"/></r></p></e>
       <e><p><l>турургъа<s n="v"/></l><r>stay<s n="v"/></r></p></e>
       <e><p><l>турургъа<s n="v"/></l><r>live<s n="v"/></r></p></e>
-      <e><p><l>туваргъа<s n="v"/></l><r>beborn<s n="v"/></r></p></e>
+      <e><p><l>туваргъа<s n="v"/></l><r>be born<s n="v"/></r></p></e>
       <e><p><l>тюб<s n="n"/></l><r>bottom<s n="n"/></r></p></e>
       <e><p><l>тюбю<s n="n"/></l><r>bottom<s n="n"/></r></p></e>
       <e><p><l>тюберге<s n="v"/></l><r>meet<s n="v"/></r></p></e>
@@ -776,6 +776,12 @@
       <e><p><l>хуй<s n="n"/></l><r>character<s n="n"/></r></p></e>
       <e><p><l>заман<s n="n"/></l><r>time<s n="n"/></r></p></e>
       <e><p><l>зат<s n="n"/></l><r>thing<s n="n"/></r></p></e>
+      <e><p><l>Магдаллы<b/>Мариям<s n="n"/></l><r>Mary<b/>Magdalene<s n="n"/></r></p></e>
+      <e><p><l>Петер<s n="n"/></l><r>Peter<s n="n"/></r></p></e>>
+      <e><p><l>Сыйлы<b/>Нюрню <s n="n"/></l><r>Holy<b/>Spirit<s n="n"/></r></p></e>
+
+
+
 
 
       <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
