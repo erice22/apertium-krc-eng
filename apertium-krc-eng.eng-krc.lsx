@@ -10,6 +10,7 @@
 		<sdef n="vblex"/>
 		<sdef n="vbser"/>
 		<sdef n="det"/>
+		<sdef n="sg"/>
 	</sdefs>
 
 	<pardefs>
@@ -58,6 +59,19 @@
 				<r></r>
 			</p>
 		</e>
+		<e lm="be in competition with" c="эриш">
+			<p>
+				<l>be<s n="vbser"/></l>
+				<r>be<b/>in<b/>competition<b/>with<s n="vblex"/></r>
+			</p>
+			<i><t/></i>
+			<p>
+				<l><d/>in<s n="pr"/><d/>competition<s n="n"/><s n="sg"/><d/>with<s n="pr"/></l>
+				<r></r>
+			</p>
+			<i><d/></i>
+		</e>
+
 	</section>
 </dictionary>
 
