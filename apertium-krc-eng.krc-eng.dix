@@ -16,6 +16,7 @@
     <sdef n="cnjcoo"          c="Co-ordinating conjunction"/>
     <sdef n="cnjadv"          c="Adverbial conjunction"/>
     <sdef n="pr"              c="Preposition"/>
+    <sdef n="post"            c="Postposition"/>
     <sdef n="adv"             c="Adverb"/>
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
@@ -435,7 +436,7 @@
       <e><p><l>биш<s n="v"/><s n="iv"/></l><r>cook<s n="vblex"/></r></p></e>
       <e><p><l>биз<s n="prn"/></l><r>we<s n="prn"/></r></p></e>
       <e><p><l>быжыл<s n="n"/></l><r>this<b/>year<s n="n"/></r></p></e>
-      <e><p><l>была<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+      <e><p><l>была<s n="post"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>была<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>былай<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>былайда<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
@@ -443,7 +444,7 @@
       <e><p><l>бла<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>бла<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>блай<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
-      <e><p><l>бол<s n="v"/><s n="iv"/></l><r>be<s n="vblex"/></r></p></e>
+      <e><p><l>бол<s n="v"/><s n="iv"/></l><r>be<s n="vbser"/></r></p></e>
       <e><p><l>бол<s n="v"/><s n="iv"/></l><r>become<s n="vblex"/></r></p></e>
       <e><p><l>бош<s n="adj"/></l><r>empty<s n="adj"/></r></p></e>
       <e><p><l>бошургъа<s n="v"/></l><r>finish<s n="vblex"/></r></p></e>
@@ -778,10 +779,11 @@
       <e><p><l>заман<s n="n"/></l><r>time<s n="n"/></r></p></e>
       <e><p><l>зат<s n="n"/></l><r>thing<s n="n"/></r></p></e>
       <e><p><l>Магдаллы<b/>Мариям<s n="n"/></l><r>Mary<b/>Magdalene<s n="n"/></r></p></e>
-      <e><p><l>Петер<s n="n"/></l><r>Peter<s n="n"/></r></p></e>>
+      <e><p><l>Петер<s n="n"/></l><r>Peter<s n="n"/></r></p></e>
       <e><p><l>Сыйлы<b/>Нюрню <s n="n"/></l><r>Holy<b/>Spirit<s n="n"/></r></p></e>
 
-
+		<e r="RL"><p><l></l><r>in<s n="pr"/></r></p></e>
+		<e r="RL"><p><l></l><r>competition<s n="n"/></r></p></e>
 
 
 
