@@ -76,6 +76,8 @@ Files and data
 * [`apertium-krc-eng.eng-krc.rtx`](apertium-krc-eng.eng-krc.rtx) - Structural transfer rules for translating into Karachay-Balkar
 * [`apertium-krc-eng.krc-eng.lrx`](apertium-krc-eng.krc-eng.lrx) - Lexical selection rules for translating into English
 * [`apertium-krc-eng.eng-krc.lrx`](apertium-krc-eng.eng-krc.lrx) - Lexical selection rules for translating into Karachay-Balkar
+* [`apertium-krc-eng.krc-eng.lsx`](apertium-krc-eng.krc-eng.lsx) - Discontiguous multiword rules for translating into English
+* [`apertium-krc-eng.eng-krc.lsx`](apertium-krc-eng.eng-krc.lsx) - Discontiguous multiword rules for translating into Karachay-Balkar
 * [`modes.xml`](modes.xml) - Translation modes
 
 For more information
