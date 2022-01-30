@@ -98,7 +98,7 @@
     <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
     <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
   </sdefs>
-   <section id="main" type="standard">
+  <section id="main" type="standard">
       <!-- Define entries within <e> here. -->
       <!-- SECTION: Verbs-->
       <e><p><l>эриш<s n="v"/><s n="iv"/></l><r>be<b/>in<b/>competition<b/>with<s n="vblex"/></r></p></e>
