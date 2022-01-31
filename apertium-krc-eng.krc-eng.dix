@@ -343,10 +343,13 @@
       <e><p><l>бурун<s n="n"/></l><r>nose<s n="n"/></r></p></e>
       <e><p><l>халыкъ<s n="n"/></l><r>people<s n="n"/></r></p></e>
       <e><p><l>Мисир<s n="np"/><s n="top"/></l><r>Egypt<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+      <e><p><l>Назарет<s n="np"/><s n="top"/></l><r>Nazareth<s n="np"/><s n="top"/><s n="m"/></r></p></e>
       <e><p><l>Исса<s n="np"/><s n="ant"/><s n="m"/></l><r>Jesus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Пауул<s n="np"/><s n="ant"/><s n="m"/></l><r>Paul<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Шимон<s n="np"/><s n="ant"/><s n="m"/></l><r>Simon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Ахия<s n="np"/><s n="ant"/><s n="m"/></l><r>John<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Аллах<s n="np"/><s n="ant"/><s n="m"/></l><r>Allah<s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>Аллах<s n="np"/><s n="ant"/><s n="m"/></l><r>God<s n="np"/><s n="al"/><s n="sg"/></r></p></e>
       <e><p><l>Мариям<s n="np"/><s n="ant"/><s n="f"/></l><r>Mary<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
       <e><p><l>джыллыкъ<s n="n"/></l><r>anniversary<s n="n"/></r></p></e>
       <e><p><l>ыйыкъ<s n="n"/></l><r>week<s n="n"/></r></p></e>
@@ -598,7 +601,7 @@
       <e><p><l>къаз<s n="v"/><s n="tv"/></l><r>dig<s n="vblex"/></r></p></e>
       <e><p><l>кече<s n="n"/></l><r>night<s n="n"/></r></p></e>
       <e><p><l>кегей<s n="n"/></l><r>spoke<s n="n"/></r></p></e>
-      <e><p><l>кел<s n="v"/><s n="tv"/></l><r>come<s n="vblex"/></r></p></e>
+      <e><p><l>кел<s n="v"/><s n="iv"/></l><r>come<s n="vblex"/></r></p></e>
       <e><p><l>кенг<s n="adj"/></l><r>wide<s n="adj"/></r></p></e>
       <e><p><l>керек<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
       <e><p><l>кер<s n="v"/><s n="tv"/></l><r>extend<s n="vblex"/></r></p></e>
@@ -671,6 +674,7 @@
       <e><p><l>огъур<s n="n"/></l><r>luck<s n="n"/></r></p></e>
       <e><p><l>*oj̆ak<s n="n"/></l><r>chimney<s n="n"/></r></p></e>
       <e><p><l>окъ<s n="n"/></l><r>bullet<s n="n"/></r></p></e>
+      <e><p><l>окъу<s n="v"/><s n="tv"/></l><r>read<s n="vblex"/></r></p></e>
       <e><p><l>ол<s n="prn"/></l><r>that<s n="prn"/></r></p></e>
       <e><p><l>ол<s n="prn"/></l><r>he<s n="prn"/></r></p></e>
       <e><p><l>ол<s n="prn"/></l><r>she<s n="prn"/></r></p></e>
@@ -703,12 +707,13 @@
       <e><p><l>сен<s n="prn"/><s n="sg"/></l><r>you<s n="prn"/><s n="sg"/></r></p></e>
       <e><p><l>сенек<s n="n"/></l><r>pitchfork<s n="n"/></r></p></e>
       <e><p><l>сиз<s n="prn"/><s n="pl"/></l><r>you<s n="prn"/><s n="pl"/></r></p></e>
+      <e><p><l>синагога<s n="n"/></l><r>synagogue<s n="n"/></r></p></e>
       <e><p><l>сокъур<s n="adj"/></l><r>blind<s n="adj"/></r></p></e>
       <e><p><l>сора<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
       <e><p><l>сонгра<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
       <e><p><l>сор<s n="v"/><s n="tv"/></l><r>ask<s n="vblex"/></r></p></e>
-      <e><p><l>сув<s n="n"/></l><r>water<s n="n"/></r></p></e>
-      <e><p><l>сув<s n="n"/></l><r>river<s n="n"/></r></p></e>
+      <e><p><l>суу<s n="n"/></l><r>water<s n="n"/></r></p></e>
+      <e><p><l>суу<s n="n"/></l><r>river<s n="n"/></r></p></e>
       <e><p><l>сувбаш<s n="adj"/></l><r>brainless<s n="adj"/></r></p></e>
       <e><p><l>сувукъ<s n="adj"/></l><r>cold<s n="adj"/></r></p></e>
       <e><p><l>сюр<s n="v"/><s n="tv"/></l><r>plow<s n="vblex"/></r></p></e>
@@ -717,6 +722,7 @@
       <e><p><l>сюек<s n="n"/></l><r>bone<s n="n"/></r></p></e>
       <e><p><l>сюерге<s n="v"/></l><r>love<s n="vblex"/></r></p></e>
       <e><p><l>сюз<s n="v"/><s n="tv"/></l><r>discuss<s n="vblex"/></r></p></e>
+      <e><p><l>шабат<s n="n"/></l><r>sabbath<s n="n"/></r></p></e>
       <e><p><l>шиндик<s n="n"/></l><r>chair<s n="n"/></r></p></e>
       <e><p><l>шкъокъ<s n="n"/></l><r>gun<s n="n"/></r></p></e>
       <e><p><l>шоркъа<s n="n"/></l><r>current<s n="n"/></r></p></e>
