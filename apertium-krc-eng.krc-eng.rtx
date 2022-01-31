@@ -37,8 +37,8 @@ prc = (PTD pprs) prc_perf prc_impf prc_irre pprs pp ;  ! select -ing if in doubt
 en_nonfin = (NFD noNF) pprs pp inf noNF ;
 
 vadv = gna_perf ;
-ger = ger ger_past ;
-vadj = gpr_past gpr ;
+ger = ger ger_past ger_pres ;
+vadj = gpr_past gpr_pres gpr ;
 voice = pass caus ;
 passive = pass ;
 causative = caus ;
