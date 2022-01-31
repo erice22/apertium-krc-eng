@@ -10,7 +10,9 @@
 		<sdef n="vblex"/>
 		<sdef n="vbser"/>
 		<sdef n="det"/>
+		<sdef n="def"/>
 		<sdef n="sg"/>
+		<sdef n="sp"/>
 	</sdefs>
 
 	<pardefs>
@@ -71,6 +73,14 @@
 			</p>
 			<i><d/></i>
 		</e>
+		<e lm="on the sabbath" c="шабат кюн">
+			<p>
+				<l>on<s n="pr"/><d/>the<s n="det"/><s n="def"/><s n="sp"/><d/>sabbath<s n="n"/><s n="sg"/></l>
+				<r>on<b/>the<b/>sabbath<s n="adv"/></r>
+			</p>
+			<i><d/></i>
+		</e>
+
 
 	</section>
 </dictionary>

@@ -446,7 +446,7 @@ VP -> PP DP.[definiteness].prep_flag %vP { %3 _2 2 _1 1 } |
       PP AdvP %vP { 3 _2 2 _1 1 } |
       AdvP %vP { %2 _1 1 } |
       4: AdvP PP AdvP %vP { 1 _1 %4 _3 3 _2 2 } |
-      %vP { %1 } |
+      !10: %vP { %1 } |
       S %де@vP { %2 _1 1 } |
       S %де@vP.*.prc %vP { %3 _1 1 } |
       quot S quot %де@vP.*.prc %vP { %5 _4 1 _1 2 _2 3 } |
@@ -531,7 +531,9 @@ vP -> 0: v.$transitivity.$lem/sl %vaux.$tense [$fnf=2.fnfall>fnf, $negative=(if 
       4: %бол@v.*.neg ?(1.lem/tl = be) [$transitivity=cop, $fnf=1.fnfall>fnf, $tense=1.prc_or_tense>tense]
           { %1 _ not@adv } |
       5: %v.$transitivity.$lem/sl бар@v.iv.prc_impf жат@vaux [$fnf=3.fnfall>fnf, $tense=1.prc_or_tense>tense]
-          { 3 _1 %1[tense=pprs] } |
+          { 3 _ %1[tense=pprs] } |
+      5: %v.$transitivity.$lem/sl э@cop [$fnf=2.fnfall>fnf, $tense=1.prc_or_tense>tense]
+          { 2 _ %1[tense=pprs] } |
       6: %бол@v.iv.ger_pres.nom керек@adj э@cop [$transitivity=cop, $fnf=fin]
           { must@vbmod.pres _ be@vbser.inf } |
       %vP emph { %1 }

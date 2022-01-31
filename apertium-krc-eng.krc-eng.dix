@@ -697,7 +697,7 @@
       <e><p><l>сана<s n="v"/><s n="tv"/></l><r>count<s n="vblex"/></r></p></e>
       <e><p><l>сары<s n="adj"/></l><r>yellow<s n="adj"/></r></p></e>
       <e><p><l>саркъара<s n="v"/></l><r>flow own<s n="vblex"/></r></p></e>
-      <e><p><l>сартын<s n="pr"/></l><r>because of<s n="pr"/></r></p></e>
+      <e><p><l>сартын<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
       <e><p><l>сав<s n="adj"/></l><r>healthy<s n="adj"/></r></p></e>
       <e><p><l>сав<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
       <e><p><l>савут<s n="n"/></l><r>gun<s n="n"/></r></p></e>
@@ -720,22 +720,23 @@
       <e><p><l>сютбашы<s n="n"/></l><r>cream<s n="n"/></r></p></e>
       <e><p><l>сютбаш<s n="n"/></l><r>cream<s n="n"/></r></p></e>
       <e><p><l>сюек<s n="n"/></l><r>bone<s n="n"/></r></p></e>
-      <e><p><l>сюерге<s n="v"/></l><r>love<s n="vblex"/></r></p></e>
+      <e><p><l>сюй<s n="v"/><s n="tv"/></l><r>love<s n="vblex"/></r></p></e>
       <e><p><l>сюз<s n="v"/><s n="tv"/></l><r>discuss<s n="vblex"/></r></p></e>
       <e><p><l>шабат<s n="n"/></l><r>sabbath<s n="n"/></r></p></e>
+      <e><p><l>шабат<b/>кюн<s n="adv"/></l><r>on<b/>the<b/>sabbath<s n="adv"/></r></p></e>
       <e><p><l>шиндик<s n="n"/></l><r>chair<s n="n"/></r></p></e>
       <e><p><l>шкъокъ<s n="n"/></l><r>gun<s n="n"/></r></p></e>
       <e><p><l>шоркъа<s n="n"/></l><r>current<s n="n"/></r></p></e>
       <e><p><l>шош<s n="adj"/></l><r>calm<s n="adj"/></r></p></e>
       <e><p><l>таба<s n="pr"/></l><r>toward<s n="pr"/></r></p></e>
-      <e><p><l>табалларгъа<s n="v"/></l><r>kick<s n="vblex"/></r></p></e>
+      <e><p><l>табалла<s n="v"/></l><r>kick<s n="vblex"/></r></p></e>
       <e><p><l>табан<s n="n"/></l><r>heel<s n="n"/></r></p></e>
       <e><p><l>таб<s n="v"/><s n="tv"/></l><r>find<s n="vblex"/></r></p></e>
       <e><p><l>талеба<s n="n"/></l><r>student<s n="n"/></r></p></e>
       <e><p><l>талыргъа<s n="v"/></l><r>become<b/>tired<s n="vblex"/></r></p></e>
       <e><p><l>тама<s n="n"/></l><r>drop<s n="n"/></r></p></e>
-      <e><p><l>тамаргъа<s n="v"/></l><r>go<s n="vblex"/></r></p></e>
-      <e><p><l>тамаргъа<s n="v"/></l><r>flow<s n="vblex"/></r></p></e>
+      <e><p><l>там<s n="v"/></l><r>go<s n="vblex"/></r></p></e>
+      <e><p><l>там<s n="v"/></l><r>flow<s n="vblex"/></r></p></e>
       <e><p><l>тамбла<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
       <e><p><l>тамла<s n="adv"/></l><r>tomorrow<s n="adv"/></r></p></e>
       <e><p><l>таш<s n="n"/></l><r>stone<s n="n"/></r></p></e>
@@ -790,6 +791,8 @@
       <e><p><l>уз<s n="n"/></l><r>ice<s n="n"/></r></p></e>
       <e><p><l>юч<s n="num"/></l><r>three<s n="num"/></r></p></e>
       <e><p><l>ючюн<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+      <e><p><l>юрен<s n="v"/><s n="iv"/></l><r>learn<s n="vblex"/></r></p></e>
+      <e><p><l>юйрет<s n="v"/><s n="tv"/></l><r>teach<s n="vblex"/></r></p></e>
       <e><p><l>юрюрге<s n="v"/></l><r>blow<s n="vblex"/></r></p></e>
       <e><p><l>юй<s n="n"/></l><r>house<s n="n"/></r></p></e>
       <e><p><l>хар<s n="prn"/></l><r>each<s n="prn"/></r></p></e>
@@ -801,10 +804,12 @@
       <e><p><l>заман<s n="n"/></l><r>time<s n="n"/></r></p></e>
       <e><p><l>зат<s n="n"/></l><r>thing<s n="n"/></r></p></e>
       <e><p><l>Магдаллы<b/>Мариям<s n="n"/></l><r>Mary<b/>Magdalene<s n="n"/></r></p></e>
-      <e><p><l>Петер<s n="n"/></l><r>Peter<s n="n"/></r></p></e>
-      <e><p><l>Сыйлы<b/>Нюрню <s n="n"/></l><r>Holy<b/>Spirit<s n="n"/></r></p></e>
+      <e><p><l>Петер<s n="np"/><s n="ant"/><s n="m"/></l><r>Peter<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Сыйлы<b/>Нюр<s n="n"/></l><r>Holy<b/>Spirit<s n="n"/></r></p></e>
 
 		<e r="RL"><p><l></l><r>in<s n="pr"/></r></p></e>
+		<e r="RL"><p><l></l><r>on<s n="pr"/></r></p></e>
+		<e r="RL"><p><l></l><r>the<s n="det"/></r></p></e>
 		<e r="RL"><p><l></l><r>competition<s n="n"/></r></p></e>
 
 

@@ -56,6 +56,14 @@
 			</p>
 			<i><t/><d/></i>
 		</e>
+		<e lm="шабат кюн" c="on the sabbath">
+			<p>
+				<l>шабат<s n="n"/><s n="nom"/><d/>кюн<s n="n"/><s n="nom"/></l>
+				<r>шабат<b/>кюн<s n="adv"/></r>
+			</p>
+			<i><d/></i>
+		</e>
+
 	</section>
 </dictionary>
 
