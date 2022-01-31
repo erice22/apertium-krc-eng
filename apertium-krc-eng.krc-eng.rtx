@@ -85,7 +85,7 @@ might_get_pr = loc dat abl gen ;
 
 city = Нарын ;
 
-prep_nouns = арт алд жан үст аст орто маңдай түп ара ич ;
+prep_nouns = арт алд жан юс аст орто маңдай түп ара ич ;
 
 
 
@@ -101,7 +101,7 @@ prc > tense : prc_perf pprs, prc_impf pprs ;
 case > case : nom subj, acc obj, dat obj, acc-ind obj, abl obj, gen pos;
 case > prep_flag : dat to, abl from, gen of, loc at, acc NOpr, nom NOpr, subj NOpr, obj NOpr;
 fnfall > fnf : [tense] fin, [prc] prc, [vadv] vadv, [ger] ger, [vadj] vadj ;
-lemh > preposition : арт behind, алд "in front of", жан "next to", үст "on top of", аст under, орто "in the middle of", маңдай "across from", түп "at the bottom of", ара between, ич inside ;
+lemh > preposition : арт behind, алд "in front of", жан "next to", юс "on top of", аст under, орто "in the middle of", маңдай "across from", түп "at the bottom of", ара between, ич inside ;
 
 !!! PATTERN DEFINITIONS !!!
 ! when building chunk or lu of this type, put these tags in this order
@@ -332,7 +332,7 @@ DP ->
       !!! ATTEMPT TO FIX NNP.gen NNP.px3 rules
       !4: DP.*.gen DP.*.[px3].$number.$case.$prep_flag { 2 _1 of@pr _ 1 } |
       !4: DP.*.gen DP.*.[px3].$number.$case.$prep_flag { 1 _1 's@gen _ 2 } |
-      4: DP.*.gen %dP.*.[px3] [$prep_flag=(if (2.lem in prep_nouns) noPr else 2.prep_flag)] {
+      4: DP.*.gen %dP.*.[px3] [$prep_flag=(if (2.lem in prep_nouns) NOpr else 2.prep_flag)] {
          (if (2.lem in prep_nouns)
            ![ 2[lemh=2.lemh>preposition] _1 the@det.def.sp _ 1 ]
            [ *(pr)[lemh=2.lemh>preposition] _1 1 ]
