@@ -8,6 +8,7 @@
     <sdef n="np"              c="Proper noun"/>
     <sdef n="vblex"           c="Verb, lexical"/>
     <sdef n="v"               c="Verb"/>
+    <sdef n="cop"             c="Verb, copula"/>
     <sdef n="vbmod"           c="Modal verb"/>
     <sdef n="vaux"            c="Auxiliary verb"/>
     <sdef n="vbser"           c="'To be' verb"/>
@@ -146,6 +147,7 @@
       <e><p><l>багъыр<s n="n"/></l><r>copper<s n="n"/></r></p></e>
       <e><p><l>балта<s n="n"/></l><r>axe<s n="n"/></r></p></e>
       <e><p><l>бармакъ<s n="n"/></l><r>finger<s n="n"/></r></p></e>
+      <e><p><l>бахча<s n="n"/></l><r>garden<s n="n"/></r></p></e>
       <e><p><l>без<s n="n"/></l><r>gland<s n="n"/></r></p></e>
       <e><p><l>булут<s n="n"/></l><r>cloud<s n="n"/></r></p></e>
       <e><p><l>джаш<s n="n"/></l><r>boy<s n="n"/></r></p></e>
@@ -155,6 +157,7 @@
       <e><p><l>ётмек<s n="n"/></l><r>bread<s n="n"/></r></p></e>
       <e><p><l>жулдуз<s n="n"/></l><r>star<s n="n"/></r></p></e>
       <e><p><l>ийнек<s n="n"/></l><r>cow<s n="n"/></r></p></e>
+      <e><p><l>ийман<s n="n"/></l><r>faith<s n="n"/></r></p></e>
       <e><p><l>кёз<s n="n"/></l><r>eye<s n="n"/></r></p></e>
       <e><p><l>киштик<s n="n"/></l><r>cat<s n="n"/></r></p></e>
       <e><p><l>къан<s n="n"/></l><r>blood<s n="n"/></r></p></e>
@@ -478,6 +481,7 @@
       <e><p><l>да<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>дери<s n="pr"/></l><r>until<s n="pr"/></r></p></e>
       <e><p><l>де<s n="v"/><s n="tv"/></l><r>say<s n="vblex"/></r></p></e>
+      <e><p><l>э<s n="cop"/></l><r>be<s n="vbser"/></r></p></e>
       <e><p><l>эгеч<s n="n"/></l><r>sister<s n="n"/></r></p></e>
       <e><p><l>эки<s n="num"/></l><r>two<s n="num"/></r></p></e>
       <e><p><l>эл<s n="n"/></l><r>village<s n="n"/></r></p></e>
@@ -543,6 +547,7 @@
       <e><p><l>жети<s n="num"/></l><r>seven<s n="num"/></r></p></e>
       <e><p><l>*j̆etmiš<s n="num"/></l><r>seventy<s n="num"/></r></p></e>
       <e><p><l>*j̆ïgïlïrga<s n="v"/></l><r>fall<s n="vblex"/></r></p></e>
+      <e><p><l>жыл<s n="n"/></l><r>year<s n="n"/></r></p></e>
       <e><p><l>жылы<s n="adj"/></l><r>warm<s n="adj"/></r></p></e>
       <e><p><l>жылы<s n="adj"/><s n="advl"/></l><r>warmly<s n="adv"/></r></p></e>
       <e><p><l>жыр<s n="n"/></l><r>song<s n="n"/></r></p></e>
@@ -554,10 +559,14 @@
       <e><p><l>*j̆ulduz<s n="n"/></l><r>star<s n="n"/></r></p></e>
       <e><p><l>*j̆uwuk<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
       <e><p><l>*j̆uwuk<s n="n"/></l><r>relative<s n="n"/></r></p></e>
+      <e><p><l>жууап<s n="n"/></l><r>answer<s n="n"/></r></p></e>
+      <e><p><l>жууап<s n="n"/></l><r>response<s n="n"/></r></p></e>
+      <e><p><l>жууап<b/>эт<s n="v"/><s n="iv"/></l><r>answer<s n="vblex"/></r></p></e>
+      <e><p><l>жууап<b/>эт<s n="v"/><s n="iv"/></l><r>respond<s n="vblex"/></r></p></e>
       <e><p><l>*j̆uwunurga<s n="v"/></l><r>bathe<s n="vblex"/></r></p></e>
       <e><p><l>*j̆ülürge<s n="v"/></l><r>shave<s n="vblex"/></r></p></e>
       <e><p><l>*j̆urek<s n="n"/></l><r>heart<s n="n"/></r></p></e>
-      <e><p><l>*j̆üz<s n="num"/></l><r>hundred<s n="num"/></r></p></e>
+      <e><p><l>жюз<s n="num"/></l><r>hundred<s n="num"/></r></p></e>
       <e><p><l>къабаргъа<s n="v"/></l><r>bite<s n="vblex"/></r></p></e>
       <e><p><l>къачан<s n="prn"/></l><r>when<s n="prn"/></r></p></e>
       <e><p><l>къакъ<s n="n"/></l><r>saltedmeat<s n="n"/></r></p></e>
@@ -671,7 +680,8 @@
       <e><p><l>от<s n="n"/></l><r>fire<s n="n"/></r></p></e>
       <e><p><l>отун<s n="n"/></l><r>firewood<s n="n"/></r></p></e>
       <e><p><l>отузз<s n="num"/></l><r>thirty<s n="num"/></r></p></e>
-      <e><p><l>ёл<s n="v"/><s n="tv"/></l><r>die<s n="vblex"/></r></p></e>
+      <e><p><l>ёл<s n="v"/><s n="iv"/></l><r>die<s n="vblex"/></r></p></e>
+      <e><p><l>ёс<s n="v"/><s n="iv"/></l><r>grow<s n="vblex"/></r></p></e>
       <e><p><l>ётюрюк<s n="n"/></l><r>lie<s n="n"/></r></p></e>
       <e><p><l>ёзен<s n="n"/></l><r>gorge<s n="n"/></r></p></e>
       <e><p><l>сабий<s n="n"/></l><r>child<s n="n"/></r></p></e>
@@ -755,7 +765,7 @@
       <e><p><l>тур<s n="v"/><s n="iv"/></l><r>stand<s n="vblex"/></r></p></e>
       <e><p><l>тур<s n="v"/><s n="iv"/></l><r>stay<s n="vblex"/></r></p></e>
       <e><p><l>тур<s n="v"/><s n="iv"/></l><r>live<s n="vblex"/></r></p></e>
-      <e><p><l>туваргъа<s n="v"/></l><r>be born<s n="vblex"/></r></p></e>
+      <e><p><l>туу<s n="v"/><s n="iv"/></l><r>be<b/>born<s n="vblex"/></r></p></e>
       <e><p><l>тюб<s n="n"/></l><r>bottom<s n="n"/></r></p></e>
       <e><p><l>тюбю<s n="n"/></l><r>bottom<s n="n"/></r></p></e>
       <e><p><l>тюбе<s n="v"/><s n="tv"/></l><r>meet<s n="vblex"/></r></p></e>

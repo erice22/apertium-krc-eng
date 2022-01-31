@@ -6,7 +6,10 @@
 		<sdef n="adv"/>
 		<sdef n="pr"/>
 		<sdef n="n"/>
+		<sdef n="nom"/>
 		<sdef n="v"/>
+		<sdef n="tv"/>
+		<sdef n="iv"/>
 		<sdef n="vblex"/>
 		<sdef n="vbser"/>
 		<sdef n="det"/>
@@ -46,17 +49,12 @@
       ^take# out<vblex>...$ [noun phrase]
   -->
 
-		<e lm="take out" c="sacar">
+		<e lm="жууап эт" c="respond, answer">
 			<p>
-				<l>take<s n="vblex"/></l>
-				<r>take<b/>out<s n="vblex"/></r>
+				<l>жууап<s n="n"/><s n="nom"/><d/>эт<s n="v"/><s n="tv"/></l>
+				<r>жууап<b/>эт<s n="v"/><s n="iv"/></r>
 			</p>
-			<i><t/><j/></i>
-			<par n="SN"/>
-			<p>
-				<l>out<s n="adv"/><j/></l>
-				<r></r>
-			</p>
+			<i><t/><d/></i>
 		</e>
 	</section>
 </dictionary>
