@@ -23,6 +23,7 @@
     <sdef n="prn"             c="Pronoun"/>
 
     <sdef n="attr"            c="Attributive"/>
+    <sdef n="advl"            c="Adverbial"/>
     <sdef n="top"             c="Toponym"/>
     <sdef n="ant"             c="Anthroponym"/>
     <sdef n="cog"             c="Cognomen"/>
@@ -338,12 +339,12 @@
       <e><p><l>бурун<s n="n"/></l><r>nose<s n="n"/></r></p></e>
       <e><p><l>бурун<s n="n"/></l><r>nose<s n="n"/></r></p></e>
       <e><p><l>халыкъ<s n="n"/></l><r>people<s n="n"/></r></p></e>
-      <e><p><l>Мисир<s n="n"/></l><r>Egypt<s n="n"/></r></p></e>
-      <e><p><l>Исса<s n="n"/></l><r>Jesus<s n="n"/></r></p></e>
-      <e><p><l>Пауул<s n="n"/></l><r>Paul<s n="n"/></r></p></e>
-      <e><p><l>Шимон<s n="n"/></l><r>Simon<s n="n"/></r></p></e>
-      <e><p><l>Ахия<s n="n"/></l><r>John<s n="n"/></r></p></e>
-      <e><p><l>Мариям<s n="n"/></l><r>Mary<s n="n"/></r></p></e>
+      <e><p><l>Мисир<s n="np"/><s n="top"/></l><r>Egypt<s n="np"/><s n="top"/><s n="m"/></r></p></e>
+      <e><p><l>Исса<s n="np"/><s n="ant"/><s n="m"/></l><r>Jesus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Пауул<s n="np"/><s n="ant"/><s n="m"/></l><r>Paul<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Шимон<s n="np"/><s n="ant"/><s n="m"/></l><r>Simon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Ахия<s n="np"/><s n="ant"/><s n="m"/></l><r>John<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Мариям<s n="np"/><s n="ant"/><s n="f"/></l><r>Mary<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
       <e><p><l>джыллыкъ<s n="n"/></l><r>anniversary<s n="n"/></r></p></e>
       <e><p><l>ыйыкъ<s n="n"/></l><r>week<s n="n"/></r></p></e>
       <e><p><l>кюн<s n="n"/></l><r>day<s n="n"/></r></p></e>
@@ -368,10 +369,12 @@
       <e><p><l>акъбет<s n="adj"/></l><r>pale<s n="adj"/></r></p></e>
       <e><p><l>ал<s n="n"/></l><r>front<s n="n"/></r></p></e>
       <e><p><l>ала<s n="n"/></l><r>those<s n="n"/></r></p></e>
-      <e><p><l>ала<s n="n"/></l><r>they<s n="n"/></r></p></e>
+      <e><p><l>ала<s n="prn"/></l><r>they<s n="prn"/></r></p></e>
       <e><p><l>ала<s n="adj"/></l><r>many-colored<s n="adj"/></r></p></e>
       <e><p><l>алай<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
-      <e><p><l>алдатыргъа<s n="v"/></l><r>cheat<s n="vblex"/></r></p></e>
+      <e><p><l>алдат<s n="v"/><s n="tv"/></l><r>cheat<s n="vblex"/></r></p></e>
+      <e><p><l>алдат<s n="v"/><s n="tv"/></l><r>trick<s n="vblex"/></r></p></e>
+      <e><p><l>алдат<s n="v"/><s n="tv"/></l><r>deceive<s n="vblex"/></r></p></e>
       <e><p><l>ал<s n="v"/><s n="tv"/></l><r>buy<s n="vblex"/></r></p></e>
       <e><p><l>ал<s n="v"/><s n="tv"/></l><r>take<s n="vblex"/></r></p></e>
       <e><p><l>алты<s n="num"/></l><r>six<s n="num"/></r></p></e>
@@ -428,8 +431,8 @@
       <e><p><l>беш<s n="num"/></l><r>five<s n="num"/></r></p></e>
       <e><p><l>бет<s n="n"/></l><r>face<s n="n"/></r></p></e>
       <e><p><l>билек<s n="n"/></l><r>arm<s n="n"/></r></p></e>
-      <e><p><l>билерге<s n="v"/></l><r>sharpen<s n="vblex"/></r></p></e>
-      <e><p><l>билирге<s n="v"/></l><r>know<s n="vblex"/></r></p></e>
+      <e><p><l>биле<s n="v"/></l><r>sharpen<s n="vblex"/></r></p></e>
+      <e><p><l>бил<s n="v"/><s n="tv"/></l><r>know<s n="vblex"/></r></p></e>
       <e><p><l>бир<s n="num"/></l><r>one<s n="num"/></r></p></e>
       <e><p><l>биркъавум<s n="det"/></l><r>some<s n="det"/></r></p></e>
       <e><p><l>бирлик<s n="n"/></l><r>unity<s n="n"/></r></p></e>
@@ -501,6 +504,8 @@
       <e><p><l>гитче<s n="adj"/></l><r>small<s n="adj"/></r></p></e>
       <e><p><l>гъокъкъа<s n="n"/></l><r>toy<s n="n"/></r></p></e>
       <e><p><l>гъуммос<s n="n"/></l><r>wart<s n="n"/></r></p></e>
+      <e><p><l>гюнах<s n="n"/></l><r>guilt<s n="n"/></r></p></e>
+      <e><p><l>гюнах<s n="n"/></l><r>sin<s n="n"/></r></p></e>
       <e><p><l>ич<s n="n"/></l><r>inside<s n="n"/></r></p></e>
       <e><p><l>ич<s n="n"/></l><r>interior<s n="n"/></r></p></e>
       <e><p><l>ич<s n="v"/><s n="tv"/></l><r>drink<s n="vblex"/></r></p></e>
@@ -511,11 +516,11 @@
       <e><p><l>ийи<s n="n"/></l><r>scent<s n="n"/></r></p></e>
       <e><p><l>ийнам<s n="n"/></l><r>faith<s n="n"/></r></p></e>
       <e><p><l>ийнам<s n="n"/></l><r>religious<b/>belief<s n="n"/></r></p></e>
-      <e><p><l>*j̆anarga<s n="v"/></l><r>burn<s n="vblex"/></r></p></e>
-      <e><p><l>*j̆anjï<s n="adj"/></l><r>new<s n="adj"/></r></p></e>
-      <e><p><l>*j̆aŋur<s n="n"/></l><r>rain<s n="n"/></r></p></e>
-      <e><p><l>*j̆arïk<s n="adj"/></l><r>bright<s n="adj"/></r></p></e>
-      <e><p><l>*j̆arïrga<s n="v"/></l><r>break<s n="vblex"/></r></p></e>
+      <e><p><l>жан<s n="v"/></l><r>burn<s n="vblex"/></r></p></e>
+      <e><p><l>жангы<s n="adj"/></l><r>new<s n="adj"/></r></p></e>
+      <e><p><l>жангур<s n="n"/></l><r>rain<s n="n"/></r></p></e>
+      <e><p><l>жарыкъ<s n="adj"/></l><r>bright<s n="adj"/></r></p></e>
+      <e><p><l>жар<s n="v"/><s n="iv"/></l><r>break<s n="vblex"/></r></p></e>
       <e><p><l>*j̆arlï<s n="adj"/></l><r>poor<s n="adj"/></r></p></e>
       <e><p><l>*j̆arlï<s n="n"/></l><r>poor<s n="n"/></r></p></e>
       <e><p><l>*j̆aš<s n="adj"/></l><r>young<s n="adj"/></r></p></e>
@@ -525,24 +530,25 @@
       <e><p><l>*j̆aw<s n="n"/></l><r>oil<s n="n"/></r></p></e>
       <e><p><l>*j̆awarga<s n="v"/></l><r>fall<s n="vblex"/></r></p></e>
       <e><p><l>*j̆ay<s n="n"/></l><r>summer<s n="n"/></r></p></e>
-      <e><p><l>*j̆azarga<s n="v"/></l><r>write<s n="vblex"/></r></p></e>
-      <e><p><l>*j̆el<s n="n"/></l><r>wind<s n="n"/></r></p></e>
+      <e><p><l>жаз<s n="v"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
+      <e><p><l>жел<s n="n"/></l><r>wind<s n="n"/></r></p></e>
       <e><p><l>*j̆elbaš<s n="n"/></l><r>unbalanced<s n="n"/></r></p></e>
       <e><p><l>*j̆elbaš<s n="n"/></l><r>eccentric<s n="n"/></r></p></e>
-      <e><p><l>*j̆eŋil<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
-      <e><p><l>*j̆er<s n="n"/></l><r>place<s n="n"/></r></p></e>
-      <e><p><l>*j̆er<s n="n"/></l><r>land<s n="n"/></r></p></e>
-      <e><p><l>*j̆er<s n="n"/></l><r>earth<s n="n"/></r></p></e>
-      <e><p><l>*j̆er<s n="n"/></l><r>floor<s n="n"/></r></p></e>
-      <e><p><l>*j̆eterge<s n="v"/></l><r>reach<s n="vblex"/></r></p></e>
-      <e><p><l>*j̆eti<s n="num"/></l><r>seven<s n="num"/></r></p></e>
+      <e><p><l>женгил<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
+      <e><p><l>жер<s n="n"/></l><r>place<s n="n"/></r></p></e>
+      <e><p><l>жер<s n="n"/></l><r>land<s n="n"/></r></p></e>
+      <e><p><l>жер<s n="n"/></l><r>earth<s n="n"/></r></p></e>
+      <e><p><l>жер<s n="n"/></l><r>floor<s n="n"/></r></p></e>
+      <e><p><l>жет<s n="v"/><s n="iv"/></l><r>reach<s n="vblex"/></r></p></e>
+      <e><p><l>жети<s n="num"/></l><r>seven<s n="num"/></r></p></e>
       <e><p><l>*j̆etmiš<s n="num"/></l><r>seventy<s n="num"/></r></p></e>
       <e><p><l>*j̆ïgïlïrga<s n="v"/></l><r>fall<s n="vblex"/></r></p></e>
-      <e><p><l>*j̆ïlï<s n="adj"/></l><r>warm<s n="adj"/></r></p></e>
-      <e><p><l>*j̆ïlï<s n="adv"/></l><r>warmly<s n="adv"/></r></p></e>
-      <e><p><l>*j̆ïr<s n="n"/></l><r>song<s n="n"/></r></p></e>
+      <e><p><l>жылы<s n="adj"/></l><r>warm<s n="adj"/></r></p></e>
+      <e><p><l>жылы<s n="adj"/><s n="advl"/></l><r>warmly<s n="adv"/></r></p></e>
+      <e><p><l>жыр<s n="n"/></l><r>song<s n="n"/></r></p></e>
       <e><p><l>*j̆ïyïrma<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
-      <e><p><l>*j̆ok<s n="adj"/></l><r>nonexistent<s n="adj"/></r></p></e>
+      <e><p><l>жокъ<s n="adj"/></l><r>nonexistent<s n="adj"/></r></p></e>
+      <e><p><l>жокъ<s n="adj"/></l><r>absent<s n="adj"/></r></p></e>
       <e><p><l>*j̆uk<s n="n"/></l><r>thing<s n="n"/></r></p></e>
       <e><p><l>*j̆uku<s n="n"/></l><r>sleep<s n="n"/></r></p></e>
       <e><p><l>*j̆ulduz<s n="n"/></l><r>star<s n="n"/></r></p></e>
