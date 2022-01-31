@@ -6,11 +6,17 @@
   -->
 
   <rule>
-    <match lemma="wind"/>
-    <match lemma="power" tags="n.*">
-      <select lemma="energía" tags="n.*"/>
+    <match lemma="гюнах" tags="n.pl.*">
+      <select lemma="sin" tags="n.*"/>
     </match>
   </rule>
+  <rule>
+    <match lemma="хар" tags="det.ind"/>
+    <match lemma="гюнах" tags="n.*">
+      <select lemma="sin" tags="n.*"/>
+    </match>
+  </rule>
+
 </rules>
 
 <!--

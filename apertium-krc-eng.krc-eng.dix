@@ -46,6 +46,7 @@
     <sdef n="ut"              c="Utrum"/>
     <sdef n="f"               c="Feminine"/>
     <sdef n="m"               c="Masculine"/>
+    <sdef n="mf"              c="Masculine or Feminine"/>
     <sdef n="un"              c="No gender"/>
 
     <sdef n="sg"              c="Singular"/>
@@ -441,6 +442,9 @@
       <e><p><l>базы<s n="prn"/></l><r>some<s n="prn"/></r></p></e>
       <e><p><l>бек<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
       <e><p><l>бери<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
+      <e><p><l>бери<s n="post"/></l><r>in<s n="pr"/></r></p></e>
+      <e><p><l>бери<s n="post"/></l><r>since<s n="pr"/></r></p></e>
+      <e><p><l>бери<s n="post"/></l><r>after<s n="pr"/></r></p></e>
       <e><p><l>бер<s n="v"/><s n="tv"/></l><r>give<s n="vblex"/></r></p></e>
       <e><p><l>беш<s n="num"/></l><r>five<s n="n"/></r></p></e>
       <e><p><l>бет<s n="n"/></l><r>face<s n="n"/></r></p></e>
@@ -470,12 +474,14 @@
       <e><p><l>бёлю<s n="v"/><s n="tv"/></l><r>divide<s n="vblex"/></r></p></e>
       <e><p><l>бёрю<s n="n"/></l><r>wolf<s n="n"/></r></p></e>
       <e><p><l>бу<s n="det"/></l><r>this<s n="det"/></r></p></e>
+      <e><p><l>бу<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/><s n="sg"/></r></p></e>
       <e><p><l>була<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>була<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>булут<s n="n"/></l><r>cloud<s n="n"/></r></p></e>
       <e><p><l>бурун<s n="n"/></l><r>nose<s n="n"/></r></p></e>
       <e><p><l>бурургъа<s n="n"/></l><r>twist<s n="n"/></r></p></e>
       <e><p><l>бут<s n="n"/></l><r>leg<s n="n"/></r></p></e>
+      <e><p><l>бутакъ<s n="n"/></l><r>branch<s n="n"/></r></p></e>
       <e><p><l>був<s n="n"/></l><r>deer<s n="n"/></r></p></e>
       <e><p><l>бюгюн<s n="n"/></l><r>today<s n="n"/></r></p></e>
       <e><p><l>букъюн<s n="n"/></l><r>today<s n="n"/></r></p></e>
@@ -582,6 +588,7 @@
       <e><p><l>джукъ<s n="n"/></l><r>thing<s n="n"/></r></p></e>
       <e><p><l>джукъу<s n="n"/></l><r>sleep<s n="n"/></r></p></e>
       <e><p><l>джулдуз<s n="n"/></l><r>star<s n="n"/></r></p></e>
+      <e><p><l>джуу<s n="v"/><s n="tv"/></l><r>wash<s n="vblex"/></r></p></e>
       <e><p><l>джууукъ<s n="post"/></l><r>near<s n="pr"/></r></p></e>
       <e><p><l>джууукъ<s n="adj"/></l><r>near<s n="adj"/></r></p></e>
       <e><p><l>джууукъ<s n="n"/></l><r>relative<s n="n"/></r></p></e>
@@ -630,6 +637,7 @@
       <e><p><l>керек<s n="adj"/></l><r>necessary<s n="adj"/></r></p></e>
       <e><p><l>кер<s n="v"/><s n="tv"/></l><r>extend<s n="vblex"/></r></p></e>
       <e><p><l>керти<s n="adj"/></l><r>real<s n="adj"/></r></p></e>
+      <e><p><l>кеси<s n="prn"/><s n="ref"/></l><r>himself<s n="prn"/><s n="ref"/></r></p></e>
       <e><p><l>кет<s n="v"/><s n="iv"/></l><r>go<s n="vblex"/></r></p></e>
       <e><p><l>кибик<s n="post"/></l><r>like<s n="pr"/></r></p></e>
       <e><p><l>ким<s n="prn"/></l><r>who<s n="prn"/></r></p></e>
@@ -648,6 +656,8 @@
       <e><p><l>къыркъ<s n="v"/><s n="tv"/></l><r>cut<s n="vblex"/></r></p></e>
       <e><p><l>къыйна<s n="v"/><s n="iv"/></l><r>suffer<s n="vblex"/></r></p></e>
       <e><p><l>къысха<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
+      <e><p><l>къысха<s n="adj"/></l><r>short<s n="adj"/></r></p></e>
+      <e><p><l>къысха<b/>заманда<b/>бери<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
       <e><p><l>къыз<s n="n"/></l><r>girl<s n="n"/></r></p></e>
       <e><p><l>къызаргъа<s n="v"/></l><r>getmad<s n="vblex"/></r></p></e>
       <e><p><l>къызаргъа<s n="v"/></l><r>heat<s n="vblex"/></r></p></e>
@@ -741,6 +751,8 @@
       <e><p><l>сав<s n="adj"/></l><r>whole<s n="adj"/></r></p></e>
       <e><p><l>савут<s n="n"/></l><r>gun<s n="n"/></r></p></e>
       <e><p><l>сайла<s n="v"/><s n="tv"/></l><r>choose<s n="vblex"/></r></p></e>
+      <e><p><l>себеб<s n="n"/></l><r>reason<s n="n"/></r></p></e>
+      <e><p><l>себеб<s n="n"/></l><r>cause<s n="n"/></r></p></e>
       <e><p><l>сегиз<s n="num"/></l><r>eight<s n="n"/></r></p></e>
       <e><p><l>сексен<s n="num"/></l><r>eighty<s n="n"/></r></p></e>
       <e><p><l>сен<s n="prn"/></l><r>you<s n="prn"/></r></p></e>
@@ -807,8 +819,10 @@
       <e><p><l>токъсан<s n="num"/></l><r>ninety<s n="n"/></r></p></e>
       <e><p><l>тол<s n="v"/><s n="iv"/></l><r>fill<s n="vblex"/></r></p></e>
       <e><p><l>толтур<s n="v"/><s n="tv"/></l><r>fill<s n="vblex"/></r></p></e>
+      <e><p><l>толу<s n="adj"/></l><r>full<s n="adj"/></r></p></e>
       <e><p><l>тонгуз<s n="n"/></l><r>pig<s n="n"/></r></p></e>
       <e><p><l>топракъ<s n="n"/></l><r>earth<s n="n"/></r></p></e>
+      <e><p><l>тохта<s n="v"/><s n="iv"/></l><r>stop<s n="vblex"/></r></p></e>
       <e><p><l>тёгерге<s n="v"/></l><r>pour<s n="vblex"/></r></p></e>
       <e><p><l>тёрт<s n="num"/></l><r>four<s n="n"/></r></p></e>
       <e><p><l>тёшек<s n="n"/></l><r>mattress<s n="n"/></r></p></e>
@@ -840,6 +854,7 @@
       <e><p><l>юйрет<s n="v"/><s n="tv"/></l><r>teach<s n="vblex"/></r></p></e>
       <e><p><l>юрюрге<s n="v"/></l><r>blow<s n="vblex"/></r></p></e>
       <e><p><l>юй<s n="n"/></l><r>house<s n="n"/></r></p></e>
+      <e><p><l>халкъ<s n="n"/></l><r>people<s n="n"/></r></p></e>
       <e><p><l>хар<s n="det"/></l><r>each<s n="det"/></r></p></e>
       <e><p><l>хар<s n="det"/></l><r>every<s n="det"/></r></p></e>
       <e><p><l>хар<s n="det"/></l><r>all<s n="det"/></r></p></e>

@@ -20,7 +20,7 @@ advlevel = comp ;
 nnptype = n np prn ;
 det_type = dem itg pos ;
 np_type = top cog ant ;
-prn_type = itg rel ind ;
+prn_type = itg rel ind dem ;
 negative = (aff aff) neg aff ;
 aux_lem = (NOaux do) be do can NOaux ;
 interog = (NOitg NOitg) itg NOitg ;
@@ -52,7 +52,7 @@ en_nouns_mass = bread paper ;
 en_nouns_count = window paper ;
 
 en_nouns_loc_in = garden taxi cab car house attic building cabinet agreement month year century millenium ;
-en_nouns_loc_on = bus floor roof shelf motorcycle bicycle plane airplane ship boat paper day ;
+en_nouns_loc_on = bus floor roof shelf motorcycle bicycle plane airplane ship boat paper day street ;
 en_nouns_loc_at = concert school club game address shore Synagogue ;
 ! FIXME: multiple options, depending on meaning:
 ! beach - on, at
@@ -122,7 +122,8 @@ prn_pers: (if (1.person = p3) 1(prn_pers_tags_p3) else 1(prn_pers_tags)[
    ]);
 prn_itg: _.<itg>.gender.number ;
 prn_ind: _.<ind>.gender.number ;
-prn: (if (1.prn_type = itg) 1(prn_itg) else-if (1.prn_type = ind) 1(prn_ind) else 1(prn_pers));
+prn_dem: _.<dem>.gender.number ;
+prn: (if (1.prn_type = itg) 1(prn_itg) else-if (1.prn_type = ind) 1(prn_ind) else-if (1.prn_type = dem) 1(prn_dem) else 1(prn_pers));
 S: _ ;
 Speech: _ ;
 n: _.number ;
