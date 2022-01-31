@@ -426,6 +426,7 @@
       <e><p><l>балчибин<s n="n"/></l><r>honeybee<s n="n"/></r></p></e>
       <e><p><l>балий<s n="n"/></l><r>cherry<s n="n"/></r></p></e>
       <e><p><l>бар<s n="adj"/></l><r>existent<s n="adj"/></r></p></e>
+      <e><p><l>бар<s n="v"/><s n="iv"/></l><r>go<s n="vblex"/></r></p></e>
       <e><p><l>барыргъа<s n="v"/></l><r>go<s n="vblex"/></r></p></e>
       <e><p><l>бармарк<s n="n"/></l><r>finger<s n="n"/></r></p></e>
       <e><p><l>баш<s n="n"/></l><r>head<s n="n"/></r></p></e>
@@ -523,11 +524,11 @@
       <e><p><l>ийи<s n="n"/></l><r>scent<s n="n"/></r></p></e>
       <e><p><l>ийнам<s n="n"/></l><r>faith<s n="n"/></r></p></e>
       <e><p><l>ийнам<s n="n"/></l><r>religious<b/>belief<s n="n"/></r></p></e>
-      <e><p><l>жан<s n="v"/></l><r>burn<s n="vblex"/></r></p></e>
-      <e><p><l>жангы<s n="adj"/></l><r>new<s n="adj"/></r></p></e>
-      <e><p><l>жангур<s n="n"/></l><r>rain<s n="n"/></r></p></e>
-      <e><p><l>жарыкъ<s n="adj"/></l><r>bright<s n="adj"/></r></p></e>
-      <e><p><l>жар<s n="v"/><s n="iv"/></l><r>break<s n="vblex"/></r></p></e>
+      <e><p><l>джан<s n="v"/></l><r>burn<s n="vblex"/></r></p></e>
+      <e><p><l>джангы<s n="adj"/></l><r>new<s n="adj"/></r></p></e>
+      <e><p><l>джангур<s n="n"/></l><r>rain<s n="n"/></r></p></e>
+      <e><p><l>джарыкъ<s n="adj"/></l><r>bright<s n="adj"/></r></p></e>
+      <e><p><l>джар<s n="v"/><s n="iv"/></l><r>break<s n="vblex"/></r></p></e>
       <e><p><l>*j̆arlï<s n="adj"/></l><r>poor<s n="adj"/></r></p></e>
       <e><p><l>*j̆arlï<s n="n"/></l><r>poor<s n="n"/></r></p></e>
       <e><p><l>*j̆aš<s n="adj"/></l><r>young<s n="adj"/></r></p></e>
@@ -537,39 +538,39 @@
       <e><p><l>*j̆aw<s n="n"/></l><r>oil<s n="n"/></r></p></e>
       <e><p><l>*j̆awarga<s n="v"/></l><r>fall<s n="vblex"/></r></p></e>
       <e><p><l>*j̆ay<s n="n"/></l><r>summer<s n="n"/></r></p></e>
-      <e><p><l>жаз<s n="v"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
-      <e><p><l>жел<s n="n"/></l><r>wind<s n="n"/></r></p></e>
+      <e><p><l>джаз<s n="v"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
+      <e><p><l>джел<s n="n"/></l><r>wind<s n="n"/></r></p></e>
       <e><p><l>*j̆elbaš<s n="n"/></l><r>unbalanced<s n="n"/></r></p></e>
       <e><p><l>*j̆elbaš<s n="n"/></l><r>eccentric<s n="n"/></r></p></e>
-      <e><p><l>женгил<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
-      <e><p><l>жер<s n="n"/></l><r>place<s n="n"/></r></p></e>
-      <e><p><l>жер<s n="n"/></l><r>land<s n="n"/></r></p></e>
-      <e><p><l>жер<s n="n"/></l><r>earth<s n="n"/></r></p></e>
-      <e><p><l>жер<s n="n"/></l><r>floor<s n="n"/></r></p></e>
-      <e><p><l>жет<s n="v"/><s n="iv"/></l><r>reach<s n="vblex"/></r></p></e>
-      <e><p><l>жети<s n="num"/></l><r>seven<s n="num"/></r></p></e>
+      <e><p><l>дженгил<s n="adj"/></l><r>fast<s n="adj"/></r></p></e>
+      <e><p><l>джер<s n="n"/></l><r>place<s n="n"/></r></p></e>
+      <e><p><l>джер<s n="n"/></l><r>land<s n="n"/></r></p></e>
+      <e><p><l>джер<s n="n"/></l><r>earth<s n="n"/></r></p></e>
+      <e><p><l>джер<s n="n"/></l><r>floor<s n="n"/></r></p></e>
+      <e><p><l>джет<s n="v"/><s n="iv"/></l><r>reach<s n="vblex"/></r></p></e>
+      <e><p><l>джети<s n="num"/></l><r>seven<s n="num"/></r></p></e>
       <e><p><l>*j̆etmiš<s n="num"/></l><r>seventy<s n="num"/></r></p></e>
       <e><p><l>*j̆ïgïlïrga<s n="v"/></l><r>fall<s n="vblex"/></r></p></e>
-      <e><p><l>жыл<s n="n"/></l><r>year<s n="n"/></r></p></e>
-      <e><p><l>жылы<s n="adj"/></l><r>warm<s n="adj"/></r></p></e>
-      <e><p><l>жылы<s n="adj"/><s n="advl"/></l><r>warmly<s n="adv"/></r></p></e>
-      <e><p><l>жыр<s n="n"/></l><r>song<s n="n"/></r></p></e>
+      <e><p><l>джыл<s n="n"/></l><r>year<s n="n"/></r></p></e>
+      <e><p><l>джылы<s n="adj"/></l><r>warm<s n="adj"/></r></p></e>
+      <e><p><l>джылы<s n="adj"/><s n="advl"/></l><r>warmly<s n="adv"/></r></p></e>
+      <e><p><l>джыр<s n="n"/></l><r>song<s n="n"/></r></p></e>
       <e><p><l>*j̆ïyïrma<s n="num"/></l><r>twenty<s n="num"/></r></p></e>
-      <e><p><l>жокъ<s n="adj"/></l><r>nonexistent<s n="adj"/></r></p></e>
-      <e><p><l>жокъ<s n="adj"/></l><r>absent<s n="adj"/></r></p></e>
+      <e><p><l>джокъ<s n="adj"/></l><r>nonexistent<s n="adj"/></r></p></e>
+      <e><p><l>джокъ<s n="adj"/></l><r>absent<s n="adj"/></r></p></e>
       <e><p><l>*j̆uk<s n="n"/></l><r>thing<s n="n"/></r></p></e>
       <e><p><l>*j̆uku<s n="n"/></l><r>sleep<s n="n"/></r></p></e>
       <e><p><l>*j̆ulduz<s n="n"/></l><r>star<s n="n"/></r></p></e>
       <e><p><l>*j̆uwuk<s n="pr"/></l><r>near<s n="pr"/></r></p></e>
       <e><p><l>*j̆uwuk<s n="n"/></l><r>relative<s n="n"/></r></p></e>
-      <e><p><l>жууап<s n="n"/></l><r>answer<s n="n"/></r></p></e>
-      <e><p><l>жууап<s n="n"/></l><r>response<s n="n"/></r></p></e>
-      <e><p><l>жууап<b/>эт<s n="v"/><s n="iv"/></l><r>answer<s n="vblex"/></r></p></e>
-      <e><p><l>жууап<b/>эт<s n="v"/><s n="iv"/></l><r>respond<s n="vblex"/></r></p></e>
+      <e><p><l>джууап<s n="n"/></l><r>answer<s n="n"/></r></p></e>
+      <e><p><l>джууап<s n="n"/></l><r>response<s n="n"/></r></p></e>
+      <e><p><l>джууап<b/>эт<s n="v"/><s n="iv"/></l><r>answer<s n="vblex"/></r></p></e>
+      <e><p><l>джууап<b/>эт<s n="v"/><s n="iv"/></l><r>respond<s n="vblex"/></r></p></e>
       <e><p><l>*j̆uwunurga<s n="v"/></l><r>bathe<s n="vblex"/></r></p></e>
       <e><p><l>*j̆ülürge<s n="v"/></l><r>shave<s n="vblex"/></r></p></e>
       <e><p><l>*j̆urek<s n="n"/></l><r>heart<s n="n"/></r></p></e>
-      <e><p><l>жюз<s n="num"/></l><r>hundred<s n="num"/></r></p></e>
+      <e><p><l>джюз<s n="num"/></l><r>hundred<s n="num"/></r></p></e>
       <e><p><l>къабаргъа<s n="v"/></l><r>bite<s n="vblex"/></r></p></e>
       <e><p><l>къачан<s n="prn"/></l><r>when<s n="prn"/></r></p></e>
       <e><p><l>къакъ<s n="n"/></l><r>saltedmeat<s n="n"/></r></p></e>
@@ -628,6 +629,7 @@
       <e><p><l>къол<s n="n"/></l><r>hand<s n="n"/></r></p></e>
       <e><p><l>къорургъа<s n="v"/></l><r>defend<s n="vblex"/></r></p></e>
       <e><p><l>къой<s n="n"/></l><r>sheep<s n="n"/></r></p></e>
+      <e><p><l>къоркъ<s n="v"/><s n="iv"/></l><r>be<b/>scared<s n="vblex"/></r></p></e>
       <e><p><l>къоян<s n="n"/></l><r>rabbit<s n="n"/></r></p></e>
       <e><p><l>кёб<s n="prn"/></l><r>much<s n="prn"/></r></p></e>
       <e><p><l>кёк<s n="n"/></l><r>sky<s n="n"/></r></p></e>
@@ -638,6 +640,7 @@
       <e><p><l>кёре<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
       <e><p><l>кёргюзю<s n="v"/><s n="tv"/></l><r>show<s n="vblex"/></r></p></e>
       <e><p><l>кёp<s n="v"/><s n="tv"/></l><r>see<s n="vblex"/></r></p></e>
+      <e><p><l>кёpюн<s n="v"/><s n="iv"/></l><r>be<b/>seen<s n="vblex"/></r></p></e>
       <e><p><l>кёз<s n="n"/></l><r>eye<s n="n"/></r></p></e>
       <e><p><l>къулакъ<s n="n"/></l><r>ear<s n="n"/></r></p></e>
       <e><p><l>къурум<s n="pr"/></l><r>to<s n="pr"/></r></p></e>

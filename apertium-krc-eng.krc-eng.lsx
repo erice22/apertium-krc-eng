@@ -49,10 +49,10 @@
       ^take# out<vblex>...$ [noun phrase]
   -->
 
-		<e lm="жууап эт" c="respond, answer">
+		<e lm="джууап эт" c="respond, answer">
 			<p>
-				<l>жууап<s n="n"/><s n="nom"/><d/>эт<s n="v"/><s n="tv"/></l>
-				<r>жууап<b/>эт<s n="v"/><s n="iv"/></r>
+				<l>джууап<s n="n"/><s n="nom"/><d/>эт<s n="v"/><s n="tv"/></l>
+				<r>джууап<b/>эт<s n="v"/><s n="iv"/></r>
 			</p>
 			<i><t/><d/></i>
 		</e>
