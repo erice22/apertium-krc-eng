@@ -159,6 +159,7 @@
       <e><p><l>жулдуз<s n="n"/></l><r>star<s n="n"/></r></p></e>
       <e><p><l>ийнек<s n="n"/></l><r>cow<s n="n"/></r></p></e>
       <e><p><l>ийман<s n="n"/></l><r>faith<s n="n"/></r></p></e>
+      <e><p><l>иймансыз<s n="adj"/></l><r>faithless<s n="adj"/></r></p></e>
       <e><p><l>ийнан<s n="v"/><s n="iv"/></l><r>believe<s n="vblex"/></r></p></e>
       <e><p><l>кёз<s n="n"/></l><r>eye<s n="n"/></r></p></e>
       <e><p><l>киштик<s n="n"/></l><r>cat<s n="n"/></r></p></e>
@@ -179,6 +180,8 @@
       <e><p><l>сарыуек<s n="n"/></l><r>crocodile<s n="n"/></r></p></e>
       <e><p><l>сёз<s n="n"/></l><r>word<s n="n"/></r></p></e>
       <e><p><l>сёзлюк<s n="n"/></l><r>dictionary<s n="n"/></r></p></e>
+      <e><p><l>сёйлеш<s n="v"/><s n="iv"/></l><r>talk<s n="vblex"/></r></p></e>
+      <e><p><l>сёйлеш<s n="v"/><s n="iv"/></l><r>speak<s n="vblex"/></r></p></e>
       <e><p><l>сют<s n="n"/></l><r>milk<s n="n"/></r></p></e>
       <e><p><l>тамчы<s n="n"/></l><r>drop<s n="n"/></r></p></e>
       <e><p><l>тюлкю<s n="n"/></l><r>fox<s n="n"/></r></p></e>
@@ -284,6 +287,7 @@
       <e><p><l>стратосфера<s n="n"/></l><r>stratosphere<s n="n"/></r></p></e>
       <e><p><l>тротуар<s n="n"/></l><r>sidewalk<s n="n"/></r></p></e>
       <e><p><l>уучу<s n="n"/></l><r>hunter<s n="n"/></r></p></e>
+      <e><p><l>файда<s n="n"/></l><r>use<s n="n"/></r></p></e>
       <e><p><l>файгъамбар<s n="n"/></l><r>prophet<s n="n"/></r></p></e>
       <e><p><l>файл<s n="n"/></l><r>file<s n="n"/></r></p></e>
       <e><p><l>фермер<s n="n"/></l><r>farmer<s n="n"/></r></p></e>
@@ -392,6 +396,7 @@
       <e><p><l>ал<s n="v"/><s n="tv"/></l><r>take<s n="vblex"/></r></p></e>
       <e><p><l>алты<s n="num"/></l><r>six<s n="n"/></r></p></e>
       <e><p><l>алтмыш<s n="num"/></l><r>sixty<s n="n"/></r></p></e>
+      <e><p><l>аман<s n="adj"/></l><r>bad<s n="adj"/></r></p></e>
       <e><p><l>аманат<s n="n"/></l><r>something<b/>held<b/>in<b/>trust<s n="n"/></r></p></e>
       <e><p><l>амма<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
       <e><p><l>амалтын<s n="pr"/></l><r>because<b/>of<s n="pr"/></r></p></e>
@@ -409,6 +414,7 @@
       <e><p><l>ашигъы<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
       <e><p><l>ашхи<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
       <e><p><l>ахсы<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
+      <e><p><l>ахшы<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
       <e><p><l>ашыкъ<s n="v"/><s n="tv"/></l><r>hurry<s n="vblex"/></r></p></e>
       <e><p><l>ат<s n="n"/></l><r>horse<s n="n"/></r></p></e>
       <e><p><l>ат<s n="n"/></l><r>name<s n="n"/></r></p></e>
@@ -436,8 +442,8 @@
       <e><p><l>бар<s n="v"/><s n="iv"/></l><r>go<s n="vblex"/></r></p></e>
       <e><p><l>бармарк<s n="n"/></l><r>finger<s n="n"/></r></p></e>
       <e><p><l>баш<s n="n"/></l><r>head<s n="n"/></r></p></e>
-      <e><p><l>башла<s n="v"/><s n="iv"/></l><r>begin<s n="vblex"/></r></p></e>
-      <e><p><l>башла<s n="v"/><s n="iv"/></l><r>start<s n="vblex"/></r></p></e>
+      <e><p><l>башла<s n="vaux"/></l><r>begin<s n="vblex"/></r></p></e>
+      <e><p><l>башла<s n="vaux"/></l><r>start<s n="vblex"/></r></p></e>
       <e><p><l>бав<s n="n"/></l><r>shed<s n="n"/></r></p></e>
       <e><p><l>базы<s n="prn"/></l><r>some<s n="prn"/></r></p></e>
       <e><p><l>бек<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
@@ -848,6 +854,7 @@
       <e><p><l>уяныргъа<s n="n"/></l><r>wakeup<s n="n"/></r></p></e>
       <e><p><l>уз<s n="n"/></l><r>ice<s n="n"/></r></p></e>
       <e><p><l>узакъ<s n="adj"/></l><r>far<s n="adj"/></r></p></e>
+      <e><p><l>юлгю<s n="n"/></l><r>example<s n="n"/></r></p></e>
       <e><p><l>юч<s n="num"/></l><r>three<s n="n"/></r></p></e>
       <e><p><l>ючюн<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
       <e><p><l>юрен<s n="v"/><s n="iv"/></l><r>learn<s n="vblex"/></r></p></e>
@@ -865,6 +872,8 @@
       <e><p><l>зат<s n="n"/></l><r>thing<s n="n"/></r></p></e>
       <e><p><l>Магдаллы<b/>Мариям<s n="n"/></l><r>Mary<b/>Magdalene<s n="n"/></r></p></e>
       <e><p><l>Петер<s n="np"/><s n="ant"/><s n="m"/></l><r>Peter<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Муса<s n="np"/><s n="ant"/><s n="m"/></l><r>Moses<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Адам<s n="np"/><s n="ant"/><s n="m"/></l><r>Adam<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Сыйлы<b/>Нюр<s n="n"/></l><r>Holy<b/>Spirit<s n="n"/></r></p></e>
 
 		<e r="RL"><p><l></l><r>in<s n="pr"/></r></p></e>
