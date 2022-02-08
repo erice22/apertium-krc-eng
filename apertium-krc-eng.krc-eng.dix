@@ -903,6 +903,8 @@
 		<e r="RL"><p><l></l><r>the<s n="det"/></r></p></e>
 		<e r="RL"><p><l></l><r>a<s n="det"/></r></p></e>
 		<e r="RL"><p><l></l><r>competition<s n="n"/></r></p></e>
+		
+		<e r="LR"><p><l>тур<s n="vaux"/></l><r></r></p></e>
 
 
 
