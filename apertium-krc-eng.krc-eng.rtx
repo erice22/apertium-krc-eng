@@ -299,7 +299,7 @@ det dP -> AP det %NNP { 2 _2 { 1 _1 3 } } ;
 DP ->
       0: %dP { 1[lemcase=$lemcase] } |
       1: %dP.n { a@det.ind.sg _ %1 } |
-      3: %dP.n.pl.* бир@num.subst.px3sp [$case=2.case,$number=sg] { a@det.ind.sg _ %1 } | 
+      3: %dP.n.pl.* бир@num.subst.px3sp [$case=2.case,$prep_flag=2.case>prep_flag,$number=sg] { a@det.ind.sg _ %1 } | 
       1: %dP.n { the(det_def)[pos_tag=det, definiteness=def, number=sp, lemcase=$lemcase] _ 1[lemcase=aa] } |
       det %dP [$interog=(if (2.interog = NOitg) 1.interog else 2.interog)]
             { 1[number=2.number, lemcase=$lemcase] _1 2 } |
@@ -332,7 +332,7 @@ DP ->
       !!! ATTEMPT TO FIX NNP.gen NNP.px3 rules
       !4: DP.*.gen DP.*.[px3].$number.$case.$prep_flag { 2 _1 of@pr _ 1 } |
       !4: DP.*.gen DP.*.[px3].$number.$case.$prep_flag { 1 _1 's@gen _ 2 } |
-      4: DP.*.gen %dP.*.[px3] [$prep_flag=(if (2.lem in prep_nouns) NOpr else 2.prep_flag)] {
+      4: DP.*.gen %dP.*.[px3] [$prep_flag=(if (2.lem in prep_nouns) NOpr else 2.case>prep_flag)] {
          (if (2.lem in prep_nouns)
            ![ 2[lemh=2.lemh>preposition] _1 the@det.def.sp _ 1 ]
            [ *(pr)[lemh=2.lemh>preposition] _1 1 ]
