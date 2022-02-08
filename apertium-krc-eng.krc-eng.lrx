@@ -16,6 +16,19 @@
       <select lemma="sin" tags="n.*"/>
     </match>
   </rule>
+  <rule weight="1.2">
+    <match lemma="хораз" tags="n.*"/>
+    <match lemma="къычыр" tags="v.iv.*">
+      <select lemma="crow" tags="vblex.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="къычыр" tags="v.iv.*">
+      <select lemma="shout" tags="vblex.*"/>
+    </match>
+  </rule>
+
+
 
 </rules>
 

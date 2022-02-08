@@ -666,6 +666,8 @@
       <e><p><l>къырк<s n="num"/></l><r>forty<s n="n"/></r></p></e>
       <e><p><l>къыркъ<s n="v"/><s n="tv"/></l><r>cut<s n="vblex"/></r></p></e>
       <e><p><l>къыйна<s n="v"/><s n="iv"/></l><r>suffer<s n="vblex"/></r></p></e>
+      <e><p><l>къычыр<s n="v"/><s n="iv"/></l><r>shout<s n="vblex"/></r></p></e>
+      <e><p><l>къычыр<s n="v"/><s n="iv"/></l><r>crow<s n="vblex"/></r></p></e>
       <e><p><l>къысха<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
       <e><p><l>къысха<s n="adj"/></l><r>short<s n="adj"/></r></p></e>
       <e><p><l>къысха<b/>заманда<b/>бери<s n="adv"/></l><r>soon<s n="adv"/></r></p></e>
@@ -746,6 +748,7 @@
       <e><p><l>ол<s n="prn"/></l><r>he<s n="prn"/></r></p></e>
       <e><p><l>ол<s n="prn"/></l><r>she<s n="prn"/></r></p></e>
       <e><p><l>ол<s n="prn"/></l><r>it<s n="prn"/></r></p></e>
+      <e><p><l>олсагъат<s n="adv"/></l><r>at<b/>once<s n="adv"/></r></p></e>
       <e><p><l>олтур<s n="v"/><s n="iv"/></l><r>sit<s n="vblex"/></r></p></e>
       <e><p><l>он<s n="num"/></l><r>ten<s n="n"/></r></p></e>
       <e><p><l>орта<s n="n"/></l><r>middle<s n="n"/></r></p></e>
@@ -782,8 +785,9 @@
       <e><p><l>сиз<s n="prn"/></l><r>you<s n="prn"/></r></p></e>
       <e><p><l>синагога<s n="n"/></l><r>synagogue<s n="n"/></r></p></e>
       <e><p><l>сокъур<s n="adj"/></l><r>blind<s n="adj"/></r></p></e>
-      <e><p><l>сора<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
-      <e><p><l>сонгра<s n="pr"/></l><r>after<s n="pr"/></r></p></e>
+      <e><p><l>сора<s n="adv"/></l><r>then<s n="adv"/></r></p></e>
+      <e><p><l>сора<s n="post"/></l><r>after<s n="pr"/></r></p></e>
+      <e><p><l>сонгра<s n="post"/></l><r>after<s n="pr"/></r></p></e>
       <e><p><l>сор<s n="v"/><s n="tv"/></l><r>ask<s n="vblex"/></r></p></e>
       <e><p><l>суу<s n="n"/></l><r>water<s n="n"/></r></p></e>
       <e><p><l>суу<s n="n"/></l><r>river<s n="n"/></r></p></e>
@@ -884,6 +888,7 @@
       <e><p><l>хар<s n="det"/></l><r>all<s n="det"/></r></p></e>
       <e><p><l>хава<s n="n"/></l><r>air<s n="n"/></r></p></e>
       <e><p><l>хава<s n="n"/></l><r>breeze<s n="n"/></r></p></e>
+      <e><p><l>хораз<s n="n"/></l><r>rooster<s n="n"/></r></p></e>
       <e><p><l>хуй<s n="n"/></l><r>character<s n="n"/></r></p></e>
       <e><p><l>заман<s n="n"/></l><r>time<s n="n"/></r></p></e>
       <e><p><l>зат<s n="n"/></l><r>thing<s n="n"/></r></p></e>
