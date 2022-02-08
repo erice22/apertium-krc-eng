@@ -15,6 +15,7 @@
 		<sdef n="vbser"/>
 		<sdef n="det"/>
 		<sdef n="loc"/>
+		<sdef n="attr"/>
 	</sdefs>
 
 	<pardefs>
@@ -60,7 +61,7 @@
 		</e>
 		<e lm="шабат кюн" c="on the sabbath">
 			<p>
-				<l>шабат<s n="n"/><s n="nom"/><d/>кюн<s n="n"/><s n="nom"/></l>
+				<l>шабат<s n="n"/><s n="attr"/><d/>кюн<s n="n"/><s n="nom"/></l>
 				<r>шабат<b/>кюн<s n="adv"/></r>
 			</p>
 			<i><d/></i>
@@ -72,6 +73,21 @@
 			</p>
 			<i><d/></i>
 		</e>
+		<e lm="къуллукъ эт" c="help; serve; care for">
+			<p>
+				<l>къуллукъ<s n="n"/><s n="nom"/><d/>эт<s n="v"/><s n="tv"/></l>
+				<r>къуллукъ<b/>эт<s n="v"/><s n="iv"/></r>
+			</p>
+			<i><t/><d/></i>
+		</e>
+		<e lm="дин къуллукчу" c="religious leader">
+			<p>
+				<l>дин<s n="n"/><s n="attr"/><d/>къуллукъчу<s n="n"/></l>
+				<r>дин<b/>къуллукъчу<s n="n"/></r>
+			</p>
+			<i><t/><d/></i>
+		</e>
+
 
 	</section>
 </dictionary>

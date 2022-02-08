@@ -144,6 +144,7 @@
       <e><p><l>ана<s n="n"/></l><r>mother<s n="n"/></r></p></e>
       <e><p><l>ата<s n="n"/></l><r>father<s n="n"/></r></p></e>
       <e><p><l>атыш<s n="n"/></l><r>shot<s n="n"/></r></p></e>
+      <e><p><l>аждагъан<s n="n"/></l><r>dragon<s n="n"/></r></p></e>
       <e><p><l>аууз<s n="n"/></l><r>mouth<s n="n"/></r></p></e>
       <e><p><l>багъыр<s n="n"/></l><r>copper<s n="n"/></r></p></e>
       <e><p><l>балта<s n="n"/></l><r>axe<s n="n"/></r></p></e>
@@ -355,6 +356,7 @@
       <e><p><l>халыкъ<s n="n"/></l><r>people<s n="n"/></r></p></e>
       <e><p><l>Мисир<s n="np"/><s n="top"/></l><r>Egypt<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>Назарет<s n="np"/><s n="top"/></l><r>Nazareth<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+      <e><p><l>Галилея<s n="np"/><s n="top"/></l><r>Galilee<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>Исса<s n="np"/><s n="ant"/><s n="m"/></l><r>Jesus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Пауул<s n="np"/><s n="ant"/><s n="m"/></l><r>Paul<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Шимон<s n="np"/><s n="ant"/><s n="m"/></l><r>Simon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -551,6 +553,7 @@
       <e><p><l>иш<s n="n"/></l><r>job<s n="n"/></r></p></e>
       <e><p><l>ишле<s n="v"/><s n="tv"/></l><r>build<s n="vblex"/></r></p></e>
       <e><p><l>ишле<s n="v"/><s n="tv"/></l><r>complete<s n="vblex"/></r></p></e>
+      <e><p><l>ий<s n="v"/><s n="tv"/></l><r>spit<s n="vblex"/></r></p></e>
       <e><p><l>ийи<s n="n"/></l><r>scent<s n="n"/></r></p></e>
       <e><p><l>ийнам<s n="n"/></l><r>faith<s n="n"/></r></p></e>
       <e><p><l>ийнам<s n="n"/></l><r>religious<b/>belief<s n="n"/></r></p></e>
@@ -593,6 +596,8 @@
       <e><p><l>джукъ<s n="n"/></l><r>thing<s n="n"/></r></p></e>
       <e><p><l>джукъу<s n="n"/></l><r>sleep<s n="n"/></r></p></e>
       <e><p><l>джулдуз<s n="n"/></l><r>star<s n="n"/></r></p></e>
+      <e><p><l>джумуш<s n="n"/></l><r>work<s n="n"/></r></p></e>
+      <e><p><l>джумушчу<s n="n"/></l><r>worker<s n="n"/></r></p></e>
       <e><p><l>джуу<s n="v"/><s n="tv"/></l><r>wash<s n="vblex"/></r></p></e>
       <e><p><l>джууукъ<s n="post"/></l><r>near<s n="pr"/></r></p></e>
       <e><p><l>джууукъ<s n="adj"/></l><r>near<s n="adj"/></r></p></e>
@@ -602,6 +607,7 @@
       <e><p><l>джууап<b/>эт<s n="v"/><s n="iv"/></l><r>answer<s n="vblex"/></r></p></e>
       <e><p><l>джууап<b/>эт<s n="v"/><s n="iv"/></l><r>respond<s n="vblex"/></r></p></e>
       <e><p><l>джууун<s n="v"/><s n="iv"/></l><r>bathe<s n="vblex"/></r></p></e>
+      <e><p><l>джут<s n="v"/><s n="tv"/></l><r>swallow<s n="vblex"/></r></p></e>
       <e><p><l>*j̆ülürge<s n="v"/></l><r>shave<s n="vblex"/></r></p></e>
       <e><p><l>джюрек<s n="n"/></l><r>heart<s n="n"/></r></p></e>
       <e><p><l>джюз<s n="num"/></l><r>hundred<s n="n"/></r></p></e>
@@ -689,6 +695,16 @@
       <e><p><l>къулакъ<s n="n"/></l><r>ear<s n="n"/></r></p></e>
       <e><p><l>къул<s n="n"/></l><r>slave<s n="n"/></r></p></e>
       <e><p><l>къул<s n="n"/></l><r>servant<s n="n"/></r></p></e>
+      <e><p><l>къуллукъ<s n="n"/></l><r>service<s n="n"/></r></p></e>
+      <e><p><l>къуллукъ<b/>эт<s n="v"/><s n="iv"/></l><r>help<s n="vblex"/></r></p></e>
+      <e><p><l>къуллукъ<b/>эт<s n="v"/><s n="iv"/></l><r>care<b/>for<s n="vblex"/></r></p></e>
+      <e><p><l>къуллукъ<b/>эт<s n="v"/><s n="iv"/></l><r>serve<s n="vblex"/></r></p></e>
+      <e><p><l>къуллукъчу<s n="n"/></l><r>leader<s n="n"/></r></p></e>
+      <e><p><l>къуллукъчу<s n="n"/></l><r>servant<s n="n"/></r></p></e>
+      <e><p><l>къуллукъчу<s n="n"/></l><r>executive<s n="n"/></r></p></e>
+      <e><p><l>дин<b/>къуллукъчу<s n="n"/></l><r>religious<b/>leader<s n="n"/></r></p></e>
+      <e><p><l>дин<s n="n"/></l><r>religion<s n="n"/></r></p></e>
+      <e><p><l>дин<s n="n"/><s n="attr"/></l><r>religious<s n="attr"/></r></p></e>
       <e><p><l>къурум<s n="pr"/></l><r>to<s n="pr"/></r></p></e>
       <e><p><l>къурум<s n="pr"/></l><r>toward<s n="pr"/></r></p></e>
       <e><p><l>къутурургъа<s n="v"/></l><r>rage<s n="vblex"/></r></p></e>
@@ -740,6 +756,7 @@
       <e><p><l>ёлюм<s n="n"/></l><r>death<s n="n"/></r></p></e>
       <e><p><l>ёлтюр<s n="v"/><s n="tv"/></l><r>kill<s n="vblex"/></r></p></e>
       <e><p><l>ёс<s n="v"/><s n="iv"/></l><r>grow<s n="vblex"/></r></p></e>
+      <e><p><l>ёсдюр<s n="v"/><s n="tv"/></l><r>grow<s n="vblex"/></r></p></e>
       <e><p><l>ётюрюк<s n="n"/></l><r>lie<s n="n"/></r></p></e>
       <e><p><l>ёзен<s n="n"/></l><r>gorge<s n="n"/></r></p></e>
       <e><p><l>сабий<s n="n"/></l><r>child<s n="n"/></r></p></e>
@@ -848,6 +865,7 @@
       <e><p><l>тюз<s n="adj"/></l><r>true<s n="adj"/></r></p></e>
       <e><p><l>учургъа<s n="v"/></l><r>fly<s n="vblex"/></r></p></e>
       <e><p><l>уллу<s n="adj"/></l><r>big<s n="adj"/></r></p></e>
+      <e><p><l>улан<s n="n"/></l><r>son<s n="n"/></r></p></e>
       <e><p><l>уру<s n="n"/></l><r>hole<s n="n"/></r></p></e>
       <e><p><l>ур<s n="v"/><s n="tv"/></l><r>hit<s n="vblex"/></r></p></e>
       <e><p><l>уяныргъа<s n="n"/></l><r>wakeup<s n="n"/></r></p></e>
