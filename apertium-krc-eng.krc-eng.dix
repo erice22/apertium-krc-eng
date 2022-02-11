@@ -56,7 +56,7 @@
    
     <sdef n="tv"               c="Transitive Verb"/>
     <sdef n="iv"               c="Inransitive Verb"/>
-
+    <sdef n="pass"             c="Passive Voice"/>
 
     <sdef n="ind"             c="Indefinite"/>
     <sdef n="def"             c="Definite"/>
@@ -574,6 +574,7 @@
       <e><p><l>джау<s n="v"/><s n="iv"/></l><r>fall<s n="vblex"/></r></p></e><!-- only for precipitation -->
       <e><p><l>джау<s n="v"/><s n="iv"/></l><r>rain<s n="vblex"/></r></p></e>
       <e><p><l>джай<s n="n"/></l><r>summer<s n="n"/></r></p></e>
+      <e><p><l>джай<s n="v"/><s n="tv"/><s n="pass"/></l><r>spread <s n="vblex"/></r></p></e>
       <e><p><l>джаз<s n="v"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
       <e><p><l>джел<s n="n"/></l><r>wind<s n="n"/></r></p></e>
       <e><p><l>*j̆elbaš<s n="n"/></l><r>unbalanced<s n="n"/></r></p></e>
@@ -714,7 +715,8 @@
       <e><p><l>къуваргъа<s n="v"/></l><r>drive<s n="vblex"/></r></p></e>
       <e><p><l>къуваргъа<s n="v"/></l><r>chase<s n="vblex"/></r></p></e>
       <e><p><l>кюч<s n="n"/></l><r>power<s n="n"/></r></p></e>
-      <e><p><l>кючлен<s n="v"/><s n="iv"/></l><r>strengthen<s n="vblex"/></r></p></e>
+      <e><p><l>кючлен<s n="v"/><s n="tv"/><s n="pass"/></l><r>strengthen<s n="vblex"/></r></p></e>
+      <e><p><l>кючлен<s n="v"/><s n="tv"/><s n="pass"/></l><r>gain<b/>ground<s n="vblex"/></r></p></e>
       <e><p><l>кючюк<s n="n"/></l><r>puppy<s n="n"/></r></p></e>
       <e><p><l>кюлюрге<s n="v"/></l><r>laugh<s n="vblex"/></r></p></e>
       <e><p><l>кюн<s n="n"/></l><r>sun<s n="n"/></r></p></e>
