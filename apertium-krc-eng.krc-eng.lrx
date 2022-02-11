@@ -27,6 +27,22 @@
       <select lemma="shout" tags="vblex.*"/>
     </match>
   </rule>
+  <rule weight="1.2">
+    <match lemma="бек" tags="adv">
+      <select lemma="a lot" tags="adv"/>
+    </match>
+    <match tags="v.*"/>
+  </rule>
+  <rule weight="1.2">
+    <match lemma="бек" tags="adv">
+      <select lemma="very" tags="adv"/>
+    </match>
+    <or>
+    <match tags="adj.*"/>
+    <match tags="adj"/>
+    </or>
+
+  </rule>
 
 
 

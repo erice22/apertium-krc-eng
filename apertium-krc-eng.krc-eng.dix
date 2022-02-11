@@ -114,6 +114,7 @@
       <e><p><l>нек<s n="adv"/></l><r>why<s n="adv"/></r></p></e>
       <e><p><l>алайда<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
       <e><p><l>бек<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
+      <e><p><l>бек<s n="adv"/></l><r>a<b/>lot<s n="adv"/></r></p></e>
       <e><p><l>эм<s n="adv"/></l><r>most<s n="adv"/></r></p></e>
       <e><p><l>бютюн<s n="adv"/></l><r>entirely<s n="adv"/></r></p></e>
       <e><p><l>бютюн<s n="adv"/></l><r>especially<s n="adv"/></r></p></e>
@@ -574,7 +575,7 @@
       <e><p><l>джау<s n="v"/><s n="iv"/></l><r>fall<s n="vblex"/></r></p></e><!-- only for precipitation -->
       <e><p><l>джау<s n="v"/><s n="iv"/></l><r>rain<s n="vblex"/></r></p></e>
       <e><p><l>джай<s n="n"/></l><r>summer<s n="n"/></r></p></e>
-      <e><p><l>джай<s n="v"/><s n="tv"/><s n="pass"/></l><r>spread <s n="vblex"/></r></p></e>
+      <e><p><l>джай<s n="v"/><s n="tv"/><s n="pass"/></l><r>spread<s n="vblex"/></r></p></e>
       <e><p><l>джаз<s n="v"/><s n="tv"/></l><r>write<s n="vblex"/></r></p></e>
       <e><p><l>джел<s n="n"/></l><r>wind<s n="n"/></r></p></e>
       <e><p><l>*j̆elbaš<s n="n"/></l><r>unbalanced<s n="n"/></r></p></e>
@@ -715,8 +716,8 @@
       <e><p><l>къуваргъа<s n="v"/></l><r>drive<s n="vblex"/></r></p></e>
       <e><p><l>къуваргъа<s n="v"/></l><r>chase<s n="vblex"/></r></p></e>
       <e><p><l>кюч<s n="n"/></l><r>power<s n="n"/></r></p></e>
-      <e><p><l>кючлен<s n="v"/><s n="tv"/><s n="pass"/></l><r>strengthen<s n="vblex"/></r></p></e>
-      <e><p><l>кючлен<s n="v"/><s n="tv"/><s n="pass"/></l><r>gain<b/>ground<s n="vblex"/></r></p></e>
+      <e><p><l>кючле<s n="v"/><s n="tv"/><s n="pass"/></l><r>strengthen<s n="vblex"/></r></p></e>
+      <e><p><l>кючле<s n="v"/><s n="tv"/><s n="pass"/></l><r>gain<b/>ground<s n="vblex"/></r></p></e>
       <e><p><l>кючюк<s n="n"/></l><r>puppy<s n="n"/></r></p></e>
       <e><p><l>кюлюрге<s n="v"/></l><r>laugh<s n="vblex"/></r></p></e>
       <e><p><l>кюн<s n="n"/></l><r>sun<s n="n"/></r></p></e>
