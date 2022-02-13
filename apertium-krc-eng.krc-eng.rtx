@@ -21,6 +21,7 @@ nnptype = n np prn ;
 det_type = dem itg pos ;
 np_type = top cog ant ;
 prn_type = itg rel ind dem ;
+nnpsubtype = (NNPD NNPD) [np_type] [prn_type] ;
 negative = (aff aff) neg aff ;
 aux_lem = (NOaux do) be do can NOaux ;
 interog = (NOitg NOitg) itg NOitg ;
@@ -147,7 +148,7 @@ adv_default: _.advlevel ;
 adv_itg: _.<itg> ;
 adv: (if (1.adv_behaviour = attr) 1(adv_attr) else-if (1.interog = itg) 1(adv_itg) else 1(adv_default));
 AdvP: _.advlevel ;
-np_top: _.<top> ;
+np_top: _.<top>.number ;
 np_ant: _.<ant>.gender.number ;
 np_cog: _.<cog>.gender ;
 np_default: _ ;
@@ -219,16 +220,18 @@ NNP ->	0: np.$nnptype.$lem/sl.$case/sl.$poss [$number=sg,$prep_flag=1.case/sl>pr
                       else-if (1.lem in en_nouns_loc_at) at
                       else 1.case/sl>prep_flag
                      )] { %1[lemcase=$lemcase, number=$number] } |
-      2: np.top.loc.$nnptype.$poss ?(1.lem/sl in city) [$case=loc,$prep_flag=in,$number=sg] { 1 } |
-      3: np.top.loc.$nnptype.$poss                     [$case=loc,$prep_flag=on,$number=sg] { 1 } |
+      3: np.top.loc.$nnptype.$poss ?(1.lem/sl in city) [$case=loc,$prep_flag=in,$number=sg] { 1 } |
+      3: np.top.loc.$nnptype.$poss ?(1.np_type=top)    [$case=loc,$prep_flag=in,$number=sg] { 1 } |
+      2: np.top.loc.$nnptype.$poss                     [$case=loc,$prep_flag=on,$number=sg] { 1 } |
 !      2: nnp.top.loc.$nnptye.$poss [$case=loc,$number=sg] { in@prep _ 1 } (1.lem/sl in city)
 !                                { at@prep _ 1 } |
       4: n.nom n.px3sp.$case.$nnptype [$number=sg] { 1 _1 2 } | ! $poss=2.poss
       NNP cnjcoo %NNP [$number=pl,$nnptype=1.nnptype] { 1 _1 2 _2 3 } | ! FIXME: having trouble making $nnptype dynamic
-      np.ant.$nnptype n.$case/sl.$number.$poss ?((2.lem/sl in ky_titles) and (2.poss = noPOSS)) { 2 _1 1 }
+      np.ant.$nnptype n.$case/sl.$number.$poss ?((2.lem/sl in ky_titles) and (2.poss = noPOSS)) { 2 _1 1 } |
+      %adj.subst { %1 }
    ;
 
-AP -> %adj.$lem/sl ?(1.adj_behaviour not = advl) { 1[lemcase=$lemcase] } |
+AP -> %adj.$lem/sl ?((1.adj_behaviour not = advl) and (1.adj_behaviour not = subst)) { 1[lemcase=$lemcase] } |
       adv.attr { 1 } |
       "# year-old" num жашар@adj { 1 _1 2 } |
       2: AP %AP.$lem/tl { 1 _1 %2 } |
@@ -308,7 +311,10 @@ DP ->
 		1: num %жаш@dP [$prep_flag=NOpr] { 1 _1 year@n.pl _ old@adj.sint } |
 		1: num -@guio %dP ?(3.lem in ky_nouns_timeunit) { the(det_def)[pos_tag=det, definiteness=def, number=sp, lemcase=$lemcase] _ *(adj_ord)[lemh=1.lemh] _ %3 } |
       det num %dP { 1[number=3.number] _1 2 _2 3 } |
-      2: %dP.np { 1 } |
+		3: %dP.np ?((1.np_type = top) and (1.case = loc)) { in@pr _ 1 } |
+      2: %dP.np { 1 } | !{
+         ! (if ((1.np_type = top) and (1.case = loc)) [ 1[pr_flag=in] ] )
+         !} |
       2: %dP.n {
           (if (1.poss = noPOSS)
                [ the(det_def)[pos_tag=det, definiteness=def, number=sp, lemcase=$lemcase] ]
@@ -335,11 +341,11 @@ DP ->
       4: DP.*.gen %dP.*.[px3] [$prep_flag=(if (2.lem in prep_nouns) NOpr else 2.case>prep_flag)] {
          (if (2.lem in prep_nouns)
            ![ 2[lemh=2.lemh>preposition] _1 the@det.def.sp _ 1 ]
-           [ *(pr)[lemh=2.lemh>preposition] _1 1 ]
+           [ *(pr)[lemh=2.lemh>preposition] _ 1 ]
           else-if (1.lem = prpers)
-           [ 1[case=pos] _1 2 ]
+           [ 1[case=pos] _ 2 ]
           else
-           [ 1 's@gen _1 2 ]
+           [ 1 's@gen _ 2 ]
          ) } |
       4: DP.*.gen %dP.*.[pxNot3] ?(((1.person = 2.poss>person) and (1.number = 2.poss>number))) [$prep_flag=(if (2.lem in prep_nouns) noPr else 2.prep_flag)]
          { 1 _1 2 } !|

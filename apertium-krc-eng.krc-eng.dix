@@ -25,7 +25,9 @@
     <sdef n="qst"             c="Question marker"/>
 
     <sdef n="attr"            c="Attributive"/>
+    <sdef n="subst"           c="Substantive"/>
     <sdef n="advl"            c="Adverbial"/>
+
     <sdef n="top"             c="Toponym"/>
     <sdef n="ant"             c="Anthroponym"/>
     <sdef n="cog"             c="Cognomen"/>
@@ -362,6 +364,7 @@
       <e><p><l>Мисир<s n="np"/><s n="top"/></l><r>Egypt<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>Назарет<s n="np"/><s n="top"/></l><r>Nazareth<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>Галилея<s n="np"/><s n="top"/></l><r>Galilee<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
+      <e><p><l>Эфес<s n="np"/><s n="top"/></l><r>Ephesus<s n="np"/><s n="top"/><s n="sg"/></r></p></e>
       <e><p><l>Исса<s n="np"/><s n="ant"/><s n="m"/></l><r>Jesus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Пауул<s n="np"/><s n="ant"/><s n="m"/></l><r>Paul<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Шимон<s n="np"/><s n="ant"/><s n="m"/></l><r>Simon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -514,6 +517,7 @@
       <e><p><l>чалыргъа<s n="v"/></l><r>mow<s n="vblex"/></r></p></e>
       <e><p><l>чанчаргъа<s n="v"/></l><r>insert<s n="vblex"/></r></p></e>
       <e><p><l>чайыр<s n="n"/></l><r>pitch<s n="n"/></r></p></e>
+      <e><p><l>чарх<s n="n"/></l><r>body<s n="n"/></r></p></e>
       <e><p><l>чибин<s n="n"/></l><r>fly<s n="n"/></r></p></e>
       <e><p><l>чыкъ<s n="v"/><s n="iv"/></l><r>come<b/>out<s n="vblex"/></r></p></e>
       <e><p><l>чыкъ<s n="v"/><s n="iv"/></l><r>leave<s n="vblex"/></r></p></e>
@@ -548,6 +552,7 @@
       <e><p><l>гъакъгъы<s n="n"/></l><r>egg<s n="n"/></r></p></e>
       <e><p><l>гъардош<s n="n"/></l><r>potato<s n="n"/></r></p></e>
       <e><p><l>гитче<s n="adj"/></l><r>small<s n="adj"/></r></p></e>
+      <e><p><l>грекли<s n="adj"/><s n="subst"/></l><r>Greek<s n="n"/></r></p></e>
       <e><p><l>гъокъкъа<s n="n"/></l><r>toy<s n="n"/></r></p></e>
       <e><p><l>гъуммос<s n="n"/></l><r>wart<s n="n"/></r></p></e>
       <e><p><l>гюнах<s n="n"/></l><r>guilt<s n="n"/></r></p></e>
@@ -565,6 +570,7 @@
       <e><p><l>ийи<s n="n"/></l><r>scent<s n="n"/></r></p></e>
       <e><p><l>ийнам<s n="n"/></l><r>faith<s n="n"/></r></p></e>
       <e><p><l>ийнам<s n="n"/></l><r>religious<b/>belief<s n="n"/></r></p></e>
+      <e><p><l>иудейли<s n="adj"/><s n="subst"/></l><r>Jew<s n="n"/></r></p></e>
       <e><p><l>джан<s n="v"/></l><r>burn<s n="vblex"/></r></p></e>
       <e><p><l>джангы<s n="adj"/></l><r>new<s n="adj"/></r></p></e>
       <e><p><l>джангур<s n="n"/></l><r>rain<s n="n"/></r></p></e>
