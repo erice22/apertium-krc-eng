@@ -22,6 +22,7 @@
     <sdef n="ij"              c="Interjection"/>
     <sdef n="adj"             c="Adjective"/>
     <sdef n="prn"             c="Pronoun"/>
+    <sdef n="qst"             c="Question marker"/>
 
     <sdef n="attr"            c="Attributive"/>
     <sdef n="advl"            c="Adverbial"/>
@@ -41,6 +42,8 @@
     <sdef n="p1"              c="1st person"/>
     <sdef n="p2"              c="2nd person"/>
     <sdef n="p3"              c="3rd person"/>
+    
+	 <sdef n="CD"              c="case to be determined"/>
 
     <sdef n="nt"              c="Neuter"/>
     <sdef n="ut"              c="Utrum"/>
@@ -183,8 +186,8 @@
       <e><p><l>сарыуек<s n="n"/></l><r>crocodile<s n="n"/></r></p></e>
       <e><p><l>сёз<s n="n"/></l><r>word<s n="n"/></r></p></e>
       <e><p><l>сёзлюк<s n="n"/></l><r>dictionary<s n="n"/></r></p></e>
-      <e><p><l>сёйлеш<s n="v"/><s n="iv"/></l><r>talk<s n="vblex"/></r></p></e>
-      <e><p><l>сёйлеш<s n="v"/><s n="iv"/></l><r>speak<s n="vblex"/></r></p></e>
+      <e><p><l>сёлеш<s n="v"/><s n="iv"/></l><r>talk<s n="vblex"/></r></p></e>
+      <e><p><l>сёлеш<s n="v"/><s n="iv"/></l><r>speak<s n="vblex"/></r></p></e>
       <e><p><l>сют<s n="n"/></l><r>milk<s n="n"/></r></p></e>
       <e><p><l>тамчы<s n="n"/></l><r>drop<s n="n"/></r></p></e>
       <e><p><l>тюлкю<s n="n"/></l><r>fox<s n="n"/></r></p></e>
@@ -392,9 +395,10 @@
       <e><p><l>акъбет<s n="adj"/></l><r>pale<s n="adj"/></r></p></e>
       <e><p><l>ал<s n="n"/></l><r>front<s n="n"/></r></p></e>
       <e><p><l>ала<s n="n"/></l><r>those<s n="n"/></r></p></e>
-      <e><p><l>ала<s n="prn"/></l><r>they<s n="prn"/></r></p></e>
+      <e><p><l>ала<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>prpers<s n="prn"/><s n="CD"/><s n="p3"/><s n="mf"/><s n="pl"/></r></p></e>
       <e><p><l>ала<s n="adj"/></l><r>many-colored<s n="adj"/></r></p></e>
       <e><p><l>алай<s n="cnjcoo"/></l><r>but<s n="cnjcoo"/></r></p></e>
+      <e><p><l>алайына<s n="adv"/></l><r>suddenly<s n="adv"/></r></p></e>
       <e><p><l>алдат<s n="v"/><s n="tv"/></l><r>cheat<s n="vblex"/></r></p></e>
       <e><p><l>алдат<s n="v"/><s n="tv"/></l><r>trick<s n="vblex"/></r></p></e>
       <e><p><l>алдат<s n="v"/><s n="tv"/></l><r>deceive<s n="vblex"/></r></p></e>
@@ -464,6 +468,7 @@
       <e><p><l>билдир<s n="v"/><s n="tv"/></l><r>inform<s n="vblex"/></r></p></e>
       <e><p><l>билдир<s n="v"/><s n="tv"/></l><r>let<b/>know<s n="vblex"/></r></p></e>
       <e><p><l>бир<s n="num"/></l><r>one<s n="n"/></r></p></e>
+      <e><p><l>бирча<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
       <e><p><l>биркъавум<s n="det"/></l><r>some<s n="det"/></r></p></e>
       <e><p><l>бирлик<s n="n"/></l><r>unity<s n="n"/></r></p></e>
       <e><p><l>биш<s n="v"/><s n="iv"/></l><r>cook<s n="vblex"/></r></p></e>
@@ -474,7 +479,7 @@
       <e><p><l>былай<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>былайда<s n="adv"/></l><r>here<s n="adv"/></r></p></e>
       <e><p><l>былтыр<s n="n"/></l><r>last<b/>year<s n="n"/></r></p></e>
-      <e><p><l>бла<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
+      <e><p><l>бла<s n="post"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>бла<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
       <e><p><l>блай<s n="pr"/></l><r>with<s n="pr"/></r></p></e>
       <e><p><l>бол<s n="v"/><s n="iv"/></l><r>be<s n="vbser"/></r></p></e>
@@ -615,6 +620,7 @@
       <e><p><l>*j̆ülürge<s n="v"/></l><r>shave<s n="vblex"/></r></p></e>
       <e><p><l>джюрек<s n="n"/></l><r>heart<s n="n"/></r></p></e>
       <e><p><l>джюз<s n="num"/></l><r>hundred<s n="n"/></r></p></e>
+      <e><p><l>джюрю<s n="v"/><s n="iv"/></l><r>go<s n="vblex"/></r></p></e>
       <e><p><l>къабаргъа<s n="v"/></l><r>bite<s n="vblex"/></r></p></e>
       <e><p><l>къачан<s n="prn"/></l><r>when<s n="prn"/></r></p></e>
       <e><p><l>къакъ<s n="n"/></l><r>saltedmeat<s n="n"/></r></p></e>
@@ -901,6 +907,7 @@
       <e><p><l>Петер<s n="np"/><s n="ant"/><s n="m"/></l><r>Peter<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Муса<s n="np"/><s n="ant"/><s n="m"/></l><r>Moses<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Адам<s n="np"/><s n="ant"/><s n="m"/></l><r>Adam<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Илияс<s n="np"/><s n="ant"/><s n="m"/></l><r>Elijah<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Сыйлы<b/>Нюр<s n="n"/></l><r>Holy<b/>Spirit<s n="n"/></r></p></e>
 
 		<e r="RL"><p><l></l><r>in<s n="pr"/></r></p></e>
@@ -910,6 +917,7 @@
 		<e r="RL"><p><l></l><r>competition<s n="n"/></r></p></e>
 		
 		<e><p><l>тур<s n="vaux"/></l><r>be<s n="vbser"/></r></p></e>
+		<e r="LR"><p><l>мы<s n="qst"/></l><r></r></p></e>
 
 
 
