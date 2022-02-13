@@ -369,6 +369,7 @@
       <e><p><l>джыллыкъ<s n="n"/></l><r>anniversary<s n="n"/></r></p></e>
       <e><p><l>ыйыкъ<s n="n"/></l><r>week<s n="n"/></r></p></e>
       <e><p><l>ышан<s n="v"/><s n="iv"/></l><r>hope<s n="vblex"/></r></p></e>
+      <e><p><l>ышан<s n="v"/><s n="iv"/></l><r>be<b/>sure<s n="vblex"/></r></p></e>
       <e><p><l>кюн<s n="n"/></l><r>day<s n="n"/></r></p></e>
       <e><p><l>хава<s n="n"/></l><r>air<s n="n"/></r></p></e>
       <e><p><l>юй<s n="n"/></l><r>house<s n="n"/></r></p></e>
@@ -908,7 +909,7 @@
 		<e r="RL"><p><l></l><r>a<s n="det"/></r></p></e>
 		<e r="RL"><p><l></l><r>competition<s n="n"/></r></p></e>
 		
-		<e r="LR"><p><l>тур<s n="vaux"/></l><r></r></p></e>
+		<e><p><l>тур<s n="vaux"/></l><r>be<s n="vbser"/></r></p></e>
 
 
 

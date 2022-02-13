@@ -68,7 +68,7 @@ ky_verbs_dat_arg = ишен тий кир жет;
 ky_verbs_abl_arg = өт аш;
 
 en_vaux_ing = be finish start begin like ;
-en_vaux_to = want ;  ! FIXME: like
+en_vaux_to = want hope ;  ! FIXME: like
 en_vaux_none = can ;
 
 ky_verbs_ing = башта бүтүр "жакшы көр" ;
@@ -482,17 +482,21 @@ prc_or_tense = [prc] [tense] ;
 prc_or_tense > tense : prc_past past ;
 frontable = be can ;
 
-vP -> 0: v.$transitivity.$lem/sl %vaux.$tense [$fnf=2.fnfall>fnf, $negative=(if (1.negative = neg or 2.negative = neg) neg else aff), $aux_lem=(if (2.lem/sl = жат or 2.lem/sl = э) be
-                         if (2.lem/sl = ал) can
-                         else do)]
+vP -> 0: v.$transitivity.$lem/sl %vaux.$tense
+             [$fnf=2.fnfall>fnf,
+              $negative=(if (1.negative = neg or 2.negative = neg) neg else aff),
+              $aux_lem=(if (2.lem/sl = тур or 2.lem/sl = э) be
+                        if (2.lem/sl = ал) can
+                        else do)
+             ]
           (if (2.lem/tl in frontable and $qst = qst)
               { (if (2.lem/tl = be) 1[tense=pprs, negative=aff] else 1[tense=inf, negative=aff]) }
            else-if (2.lem/tl in en_vaux_ing)
-              { 2[tense=$tense, qst=$qst, number=$number] _1 1[tense=pprs] }
+              { 2[tense=$tense, qst=$qst, number=$number] _ 1[tense=pprs] }
            else-if (2.lem/tl in en_vaux_none)
-              { 2[tense=$tense, qst=$qst, number=$number, negative=$negative] _1 1[tense=inf] }
+              { 2[tense=$tense, qst=$qst, number=$number, negative=$negative] _ 1[tense=inf] }
            else ! 2.lem in en_vaux_to
-              { 2[person=1.person, number=1.number, tense=$tense, qst=$qst, number=$number] _1 to@pr _1 1[tense=inf] } )
+              { 2[person=1.person, number=1.number, tense=$tense, qst=$qst, number=$number] _ to@pr _ 1[tense=inf] } )
        |
       !1: v.$transitivity.$tense [$fnf=1.fnfall>fnf]
       !    (if ((1.person=p3) and (1.number=sg))
