@@ -511,7 +511,8 @@
       <e><p><l>буйрукъ<b/>эт<s n="v"/><s n="iv"/></l><r>order<s n="vblex"/></r></p></e>
       <e><p><l>буюр<s n="v"/><s n="tv"/></l><r>command<s n="vblex"/></r></p></e>
       <e><p><l>буюр<s n="v"/><s n="tv"/></l><r>order<s n="vblex"/></r></p></e>
-      <e><p><l>бютев<s n="prn"/></l><r>all<s n="prn"/></r></p></e>
+      <e><p><l>бютеу<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>бютеу<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
       <e><p><l>чабакъ<s n="n"/></l><r>fish<s n="n"/></r></p></e>
       <e><p><l>чаб<s n="v"/><s n="iv"/></l><r>run<s n="vblex"/></r></p></e>
       <e><p><l>чач<s n="n"/></l><r>hair<s n="n"/></r></p></e>
