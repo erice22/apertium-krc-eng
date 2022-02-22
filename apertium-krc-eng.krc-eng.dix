@@ -897,7 +897,8 @@
       <e><p><l>тюнене<s n="n"/></l><r>yesterday<s n="n"/></r></p></e>
       <e><p><l>тютюн<s n="n"/></l><r>smoke<s n="n"/></r></p></e>
       <e><p><l>тюз<s n="adj"/></l><r>true<s n="adj"/></r></p></e>
-      <e><p><l>учургъа<s n="v"/></l><r>fly<s n="vblex"/></r></p></e>
+      <e><p><l>тюш<s n="v"/><s n="iv"/></l><r>fall<s n="vblex"/></r></p></e>
+      <e><p><l>уч<s n="v"/><s n="iv"/></l><r>fly<s n="vblex"/></r></p></e>
       <e><p><l>уллу<s n="adj"/></l><r>big<s n="adj"/></r></p></e>
       <e><p><l>улан<s n="n"/></l><r>son<s n="n"/></r></p></e>
       <e><p><l>уру<s n="n"/></l><r>hole<s n="n"/></r></p></e>
@@ -923,6 +924,7 @@
       <e><p><l>заман<s n="n"/></l><r>time<s n="n"/></r></p></e>
       <e><p><l>зат<s n="n"/></l><r>thing<s n="n"/></r></p></e>
       <e><p><l>залог<s n="n"/></l><r>bond<s n="n"/></r></p></e>
+      <e><p><l>закон<s n="n"/></l><r>law<s n="n"/></r></p></e>
       <e><p><l>Магдаллы<b/>Мариям<s n="n"/></l><r>Mary<b/>Magdalene<s n="n"/></r></p></e>
       <e><p><l>Петер<s n="np"/><s n="ant"/><s n="m"/></l><r>Peter<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Муса<s n="np"/><s n="ant"/><s n="m"/></l><r>Moses<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
