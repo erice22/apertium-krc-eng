@@ -174,6 +174,7 @@
       <e><p><l>кёз<s n="n"/></l><r>eye<s n="n"/></r></p></e>
       <e><p><l>киштик<s n="n"/></l><r>cat<s n="n"/></r></p></e>
       <e><p><l>къан<s n="n"/></l><r>blood<s n="n"/></r></p></e>
+      <e><p><l>къанатлы<s n="adj"/><s n="subst"/></l><r>bird<s n="n"/></r></p></e>
       <e><p><l>къар<s n="n"/></l><r>snow<s n="n"/></r></p></e>
       <e><p><l>къарнаш<s n="n"/></l><r>brother<s n="n"/></r></p></e>
       <e><p><l>къарындаш<s n="n"/></l><r>brother<s n="n"/></r></p></e>
@@ -446,6 +447,7 @@
       <e><p><l>айт<s n="v"/><s n="tv"/></l><r>say<s n="vblex"/></r></p></e>
       <e><p><l>аз<s n="det"/><s n="qnt"/></l><r>little<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
       <e><p><l>азар<s n="n"/></l><r>little<s n="n"/></r></p></e>
+      <e><p><l>азат<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
       <e><p><l>багъа<s n="n"/></l><r>price<s n="n"/></r></p></e>
       <e><p><l>багъаргъа<s n="v"/></l><r>feed<s n="vblex"/></r></p></e>
       <e><p><l>бал<s n="n"/></l><r>honey<s n="n"/></r></p></e>
@@ -457,6 +459,10 @@
       <e><p><l>баш<s n="n"/></l><r>head<s n="n"/></r></p></e>
       <e><p><l>башла<s n="vaux"/></l><r>begin<s n="vblex"/></r></p></e>
       <e><p><l>башла<s n="vaux"/></l><r>start<s n="vblex"/></r></p></e>
+      <e><p><l>башха<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
+      <e><p><l>башха<s n="adj"/></l><r>other<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
+      <e><p><l>башха<s n="prn"/><s n="ind"/></l><r>another<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>башха<s n="prn"/><s n="ind"/><s n="pl"/></l><r>others<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
       <e><p><l>бав<s n="n"/></l><r>shed<s n="n"/></r></p></e>
       <e><p><l>базы<s n="prn"/></l><r>some<s n="prn"/></r></p></e>
       <e><p><l>бек<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
@@ -467,6 +473,9 @@
       <e><p><l>бер<s n="v"/><s n="tv"/></l><r>give<s n="vblex"/></r></p></e>
       <e><p><l>беш<s n="num"/></l><r>five<s n="n"/></r></p></e>
       <e><p><l>бет<s n="n"/></l><r>face<s n="n"/></r></p></e>
+      <e><p><l>белгили<s n="adj"/></l><r>notable<s n="adj"/></r></p></e>
+      <e><p><l>белгили<s n="adj"/></l><r>famous<s n="adj"/></r></p></e>
+      <e><p><l>белгили<s n="adj"/></l><r>well-known<s n="adj"/></r></p></e>
       <e><p><l>билек<s n="n"/></l><r>arm<s n="n"/></r></p></e>
       <e><p><l>бил<s n="v"/></l><r>sharpen<s n="vblex"/></r></p></e>
       <e><p><l>бил<s n="v"/><s n="tv"/></l><r>know<s n="vblex"/></r></p></e>
@@ -744,6 +753,7 @@
       <e><p><l>кююз<s n="n"/></l><r>blanket<s n="n"/></r></p></e>
       <e><p><l>лампа<s n="n"/></l><r>lamp<s n="n"/></r></p></e>
       <e><p><l>магъана<s n="n"/></l><r>meaning<s n="n"/></r></p></e>
+      <e><p><l>мал<s n="n"/></l><r>animal<s n="n"/></r></p></e>
       <e><p><l>мен<s n="prn"/></l><r>I<s n="prn"/></r></p></e>
       <e><p><l>минерге<s n="v"/></l><r>ride<s n="vblex"/></r></p></e>
       <e><p><l>минг<s n="num"/></l><r>thousand<s n="n"/></r></p></e>
@@ -912,6 +922,7 @@
       <e><p><l>хуй<s n="n"/></l><r>character<s n="n"/></r></p></e>
       <e><p><l>заман<s n="n"/></l><r>time<s n="n"/></r></p></e>
       <e><p><l>зат<s n="n"/></l><r>thing<s n="n"/></r></p></e>
+      <e><p><l>залог<s n="n"/></l><r>bond<s n="n"/></r></p></e>
       <e><p><l>Магдаллы<b/>Мариям<s n="n"/></l><r>Mary<b/>Magdalene<s n="n"/></r></p></e>
       <e><p><l>Петер<s n="np"/><s n="ant"/><s n="m"/></l><r>Peter<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Муса<s n="np"/><s n="ant"/><s n="m"/></l><r>Moses<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
