@@ -128,6 +128,8 @@
       <e><p><l>эртде<s n="adv"/></l><r>early<s n="adv"/></r></p></e>
       <e><p><l>алай<s n="adv"/></l><r>like<b/>that<s n="adv"/></r></p></e>
       <e><p><l>алай<b/>бла<s n="adv"/></l><r>thus<s n="adv"/></r></p></e>
+      <e><p><l>алай<b/>а<s n="adv"/></l><r>but<s n="cnjcoo"/></r></p></e>
+      <!-- e><p><l>алай<b/>а<s n="adv"/></l><r>and<b/>yet<s n="cnjcoo"/></r></p></e -->
       <e><p><l>дагъыда<s n="adv"/></l><r>still<s n="adv"/></r></p></e>
       <e><p><l>былай<s n="adv"/></l><r>like<b/>this<s n="adv"/></r></p></e>
       <e><p><l>ары<s n="adv"/></l><r>there<s n="adv"/></r></p></e>
@@ -172,6 +174,7 @@
       <e><p><l>кёз<s n="n"/></l><r>eye<s n="n"/></r></p></e>
       <e><p><l>киштик<s n="n"/></l><r>cat<s n="n"/></r></p></e>
       <e><p><l>къан<s n="n"/></l><r>blood<s n="n"/></r></p></e>
+      <e><p><l>къанатлы<s n="adj"/><s n="subst"/></l><r>bird<s n="n"/></r></p></e>
       <e><p><l>къар<s n="n"/></l><r>snow<s n="n"/></r></p></e>
       <e><p><l>къарнаш<s n="n"/></l><r>brother<s n="n"/></r></p></e>
       <e><p><l>къарындаш<s n="n"/></l><r>brother<s n="n"/></r></p></e>
@@ -445,6 +448,7 @@
       <e><p><l>айт<s n="v"/><s n="tv"/></l><r>say<s n="vblex"/></r></p></e>
       <e><p><l>аз<s n="det"/><s n="qnt"/></l><r>little<s n="det"/><s n="qnt"/><s n="sg"/></r></p></e>
       <e><p><l>азар<s n="n"/></l><r>little<s n="n"/></r></p></e>
+      <e><p><l>азат<s n="adj"/></l><r>free<s n="adj"/></r></p></e>
       <e><p><l>багъа<s n="n"/></l><r>price<s n="n"/></r></p></e>
       <e><p><l>багъаргъа<s n="v"/></l><r>feed<s n="vblex"/></r></p></e>
       <e><p><l>бал<s n="n"/></l><r>honey<s n="n"/></r></p></e>
@@ -456,6 +460,10 @@
       <e><p><l>баш<s n="n"/></l><r>head<s n="n"/></r></p></e>
       <e><p><l>башла<s n="vaux"/></l><r>begin<s n="vblex"/></r></p></e>
       <e><p><l>башла<s n="vaux"/></l><r>start<s n="vblex"/></r></p></e>
+      <e><p><l>башха<s n="adj"/></l><r>different<s n="adj"/></r></p></e>
+      <e><p><l>башха<s n="adj"/></l><r>other<s n="det"/><s n="ind"/><s n="sp"/></r></p></e>
+      <e><p><l>башха<s n="prn"/><s n="ind"/></l><r>another<s n="prn"/><s n="ind"/><s n="mf"/><s n="sg"/></r></p></e>
+      <e><p><l>башха<s n="prn"/><s n="ind"/><s n="pl"/></l><r>others<s n="prn"/><s n="ind"/><s n="mf"/><s n="pl"/></r></p></e>
       <e><p><l>бав<s n="n"/></l><r>shed<s n="n"/></r></p></e>
       <e><p><l>базы<s n="prn"/></l><r>some<s n="prn"/></r></p></e>
       <e><p><l>бек<s n="adv"/></l><r>very<s n="adv"/></r></p></e>
@@ -466,6 +474,9 @@
       <e><p><l>бер<s n="v"/><s n="tv"/></l><r>give<s n="vblex"/></r></p></e>
       <e><p><l>беш<s n="num"/></l><r>five<s n="n"/></r></p></e>
       <e><p><l>бет<s n="n"/></l><r>face<s n="n"/></r></p></e>
+      <e><p><l>белгили<s n="adj"/></l><r>notable<s n="adj"/></r></p></e>
+      <e><p><l>белгили<s n="adj"/></l><r>famous<s n="adj"/></r></p></e>
+      <e><p><l>белгили<s n="adj"/></l><r>well-known<s n="adj"/></r></p></e>
       <e><p><l>билек<s n="n"/></l><r>arm<s n="n"/></r></p></e>
       <e><p><l>бил<s n="v"/></l><r>sharpen<s n="vblex"/></r></p></e>
       <e><p><l>бил<s n="v"/><s n="tv"/></l><r>know<s n="vblex"/></r></p></e>
@@ -510,7 +521,8 @@
       <e><p><l>буйрукъ<b/>эт<s n="v"/><s n="iv"/></l><r>order<s n="vblex"/></r></p></e>
       <e><p><l>буюр<s n="v"/><s n="tv"/></l><r>command<s n="vblex"/></r></p></e>
       <e><p><l>буюр<s n="v"/><s n="tv"/></l><r>order<s n="vblex"/></r></p></e>
-      <e><p><l>бютев<s n="prn"/></l><r>all<s n="prn"/></r></p></e>
+      <e><p><l>бютеу<s n="prn"/><s n="qnt"/></l><r>all<s n="prn"/><s n="qnt"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e><p><l>бютеу<s n="det"/><s n="qnt"/></l><r>all<s n="det"/><s n="qnt"/><s n="pl"/></r></p></e>
       <e><p><l>чабакъ<s n="n"/></l><r>fish<s n="n"/></r></p></e>
       <e><p><l>чаб<s n="v"/><s n="iv"/></l><r>run<s n="vblex"/></r></p></e>
       <e><p><l>чач<s n="n"/></l><r>hair<s n="n"/></r></p></e>
@@ -742,6 +754,7 @@
       <e><p><l>кююз<s n="n"/></l><r>blanket<s n="n"/></r></p></e>
       <e><p><l>лампа<s n="n"/></l><r>lamp<s n="n"/></r></p></e>
       <e><p><l>магъана<s n="n"/></l><r>meaning<s n="n"/></r></p></e>
+      <e><p><l>мал<s n="n"/></l><r>animal<s n="n"/></r></p></e>
       <e><p><l>мен<s n="prn"/></l><r>I<s n="prn"/></r></p></e>
       <e><p><l>минерге<s n="v"/></l><r>ride<s n="vblex"/></r></p></e>
       <e><p><l>минг<s n="num"/></l><r>thousand<s n="n"/></r></p></e>
@@ -886,7 +899,8 @@
       <e><p><l>тюнене<s n="n"/></l><r>yesterday<s n="n"/></r></p></e>
       <e><p><l>тютюн<s n="n"/></l><r>smoke<s n="n"/></r></p></e>
       <e><p><l>тюз<s n="adj"/></l><r>true<s n="adj"/></r></p></e>
-      <e><p><l>учургъа<s n="v"/></l><r>fly<s n="vblex"/></r></p></e>
+      <e><p><l>тюш<s n="v"/><s n="iv"/></l><r>fall<s n="vblex"/></r></p></e>
+      <e><p><l>уч<s n="v"/><s n="iv"/></l><r>fly<s n="vblex"/></r></p></e>
       <e><p><l>уллу<s n="adj"/></l><r>big<s n="adj"/></r></p></e>
       <e><p><l>улан<s n="n"/></l><r>son<s n="n"/></r></p></e>
       <e><p><l>уру<s n="n"/></l><r>hole<s n="n"/></r></p></e>
@@ -911,6 +925,8 @@
       <e><p><l>хуй<s n="n"/></l><r>character<s n="n"/></r></p></e>
       <e><p><l>заман<s n="n"/></l><r>time<s n="n"/></r></p></e>
       <e><p><l>зат<s n="n"/></l><r>thing<s n="n"/></r></p></e>
+      <e><p><l>залог<s n="n"/></l><r>bond<s n="n"/></r></p></e>
+      <e><p><l>закон<s n="n"/></l><r>law<s n="n"/></r></p></e>
       <e><p><l>Магдаллы<b/>Мариям<s n="n"/></l><r>Mary<b/>Magdalene<s n="n"/></r></p></e>
       <e><p><l>Петер<s n="np"/><s n="ant"/><s n="m"/></l><r>Peter<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Муса<s n="np"/><s n="ant"/><s n="m"/></l><r>Moses<s n="np"/><s n="ant"/><s n="m"/></r></p></e>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rules>
+<rules glob="plus">
   <!--
     This rule chooses "energía" as the translation of "power" when it is preceded by "wind".
     Add your own rules within <rule> here, using the resources below as a guide
@@ -44,7 +44,17 @@
 
   </rule>
 
-
+  <rule>
+    <match lemma="башха" tags="adj">
+      <select lemma="different" tags="adj"/>
+	 </match>
+  </rule>
+  <rule weight="1.2">
+    <match lemma="башха" tags="adj">
+	   <select lemma="other" tags="det.ind.sp"/>
+	 </match>
+	 <match tags="n.*"/>
+  </rule>
 
 </rules>
 
