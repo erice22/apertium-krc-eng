@@ -145,7 +145,7 @@
       <e><p><l>джангыз<s n="adj"/></l><r>alone<s n="adj"/></r></p></e>
 
       <!-- SECTION: Nouns -->
-
+      <e><p><l>ачха<s n="n"/></l><r>money<s n="n"/></r></p></e>
       <e><p><l>айыу<s n="n"/></l><r>bear<s n="n"/></r></p></e>
       <e><p><l>айю<s n="n"/></l><r>bear<s n="n"/></r></p></e>
       <e><p><l>алма<s n="n"/></l><r>apple<s n="n"/></r></p></e>
@@ -175,7 +175,6 @@
       <e><p><l>киштик<s n="n"/></l><r>cat<s n="n"/></r></p></e>
       <e><p><l>къан<s n="n"/></l><r>blood<s n="n"/></r></p></e>
       <e><p><l>къанатлы<s n="adj"/><s n="subst"/></l><r>bird<s n="n"/></r></p></e>
-      <e><p><l>къар<s n="n"/></l><r>snow<s n="n"/></r></p></e>
       <e><p><l>къарнаш<s n="n"/></l><r>brother<s n="n"/></r></p></e>
       <e><p><l>къарындаш<s n="n"/></l><r>brother<s n="n"/></r></p></e>
       <e><p><l>къач<s n="n"/></l><r>cross<s n="n"/></r></p></e>
@@ -187,6 +186,7 @@
       <e><p><l>къыз<s n="n"/></l><r>girl<s n="n"/></r></p></e>
       <e><p><l>мермер<s n="n"/></l><r>marble<s n="n"/></r></p></e>
       <e><p><l>от<s n="n"/></l><r>fire<s n="n"/></r></p></e>
+      <e><p><l>сат<s n="v"/><s n="tv"/></l><r>sell<s n="vblex"/></r></p></e>
       <e><p><l>сарыубек<s n="n"/></l><r>crocodile<s n="n"/></r></p></e>
       <e><p><l>сарыуек<s n="n"/></l><r>crocodile<s n="n"/></r></p></e>
       <e><p><l>сёз<s n="n"/></l><r>word<s n="n"/></r></p></e>
@@ -440,6 +440,7 @@
       <e><p><l>авур<s n="adj"/></l><r>heavy<s n="adj"/></r></p></e>
       <e><p><l>ай<s n="n"/></l><r>moon<s n="n"/></r></p></e>
       <e><p><l>ай<s n="n"/></l><r>month<s n="n"/></r></p></e>
+      <e><p><l>аякъ<s n="n"/></l><r>cup<s n="n"/></r></p></e>
       <e><p><l>аякъ<s n="n"/></l><r>foot<s n="n"/></r></p></e>
       <e><p><l>аякъбармакъ<s n="n"/></l><r>toe<s n="n"/></r></p></e>
       <e><p><l>аяргъа<s n="v"/></l><r>fall<s n="vblex"/></r></p></e>
@@ -574,9 +575,10 @@
       <e><p><l>ич<s n="n"/></l><r>interior<s n="n"/></r></p></e>
       <e><p><l>ич<s n="v"/><s n="tv"/></l><r>drink<s n="vblex"/></r></p></e>
       <e><p><l>иги<s n="adj"/></l><r>good<s n="adj"/></r></p></e>
-      <e><p><l>*inj̆iw<s n="n"/></l><r>poverty<s n="n"/></r></p></e>
+      <e><p><l>inj̆iw<s n="n"/></l><r>poverty<s n="n"/></r></p></e>
       <e><p><l>иш<s n="n"/></l><r>matter<s n="n"/></r></p></e>
       <e><p><l>иш<s n="n"/></l><r>job<s n="n"/></r></p></e>
+      <e><p><l>иш<s n="n"/></l><r>work<s n="n"/></r></p></e>
       <e><p><l>ишле<s n="v"/><s n="tv"/></l><r>build<s n="vblex"/></r></p></e>
       <e><p><l>ишле<s n="v"/><s n="tv"/></l><r>complete<s n="vblex"/></r></p></e>
       <e><p><l>ий<s n="v"/><s n="tv"/></l><r>spit<s n="vblex"/></r></p></e>

@@ -1,21 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rules glob="plus">
-  <!--
-    This rule chooses "energía" as the translation of "power" when it is preceded by "wind".
-    Add your own rules within <rule> here, using the resources below as a guide
-  -->
 
   <rule>
     <match lemma="гюнах" tags="n.pl.*">
       <select lemma="sin" tags="n.*"/>
     </match>
   </rule>
-  <rule>
+  <rule> 
     <match lemma="хар" tags="det.ind"/>
     <match lemma="гюнах" tags="n.*">
       <select lemma="sin" tags="n.*"/>
     </match>
   </rule>
+
+  <rule weight="1.2"> 
+    <match lemma="ич" tags="v.tv.*"/>
+    <match lemma="аякъ" tags="n.*">
+      <select lemma="cup" tags="n.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="аякъ" tags="n.*">
+      <select lemma="foot" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule weight="1.2"> 
+    <match lemma="ачха" tags="n.*"/>
+    <match lemma="ал" tags="v.tv.*">
+      <select lemma="buy" tags="vblex.*"/>
+    </match>
+  </rule>
+  <rule weight="1.2"> 
+    <match lemma="сат" tags="v.tv.*"/>
+    <match lemma="ал" tags="v.tv.*">
+      <select lemma="buy" tags="vblex.*"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="ал" tags="v.tv.*">
+      <select lemma="take" tags="vblex.*"/>
+    </match>
+  </rule>
+
   <rule weight="1.2">
     <match lemma="хораз" tags="n.*"/>
     <match lemma="къычыр" tags="v.iv.*">
@@ -27,6 +54,7 @@
       <select lemma="shout" tags="vblex.*"/>
     </match>
   </rule>
+
   <rule weight="1.2">
     <match lemma="бек" tags="adv">
       <select lemma="a lot" tags="adv"/>
