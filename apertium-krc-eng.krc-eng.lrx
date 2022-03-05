@@ -84,6 +84,18 @@
 	 <match tags="n.*"/>
   </rule>
 
+  <rule weight="1.2"> 
+    <match tags="v.tv.*"/>
+    <match lemma="ючюн" tags="post">
+      <select lemma="to" tags="pr"/>
+    </match>
+  </rule>
+  <rule>
+    <match lemma="ючюн" tags="post">
+      <select lemma="for" tags="pr"/>
+    </match>
+  </rule>
+
 </rules>
 
 <!--

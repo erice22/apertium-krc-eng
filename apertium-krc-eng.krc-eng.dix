@@ -527,6 +527,9 @@
       <e><p><l>чабакъ<s n="n"/></l><r>fish<s n="n"/></r></p></e>
       <e><p><l>чаб<s n="v"/><s n="iv"/></l><r>run<s n="vblex"/></r></p></e>
       <e><p><l>чач<s n="n"/></l><r>hair<s n="n"/></r></p></e>
+      <e><p><l>чакъыр<s n="v"/><s n="tv"/></l><r>call<s n="vblex"/></r></p></e>
+      <e><p><l>чакъыр<s n="v"/><s n="tv"/></l><r>invite<s n="vblex"/></r></p></e>
+      <e><p><l>чакъыр<s n="v"/><s n="tv"/></l><r>ask<b/>to<b/>come<s n="vblex"/></r></p></e>
       <e><p><l>чакълы<s n="post"/></l><r>near<s n="pr"/></r></p></e>
       <e><p><l>чалыргъа<s n="v"/></l><r>mow<s n="vblex"/></r></p></e>
       <e><p><l>чанчаргъа<s n="v"/></l><r>insert<s n="vblex"/></r></p></e>
@@ -912,7 +915,8 @@
       <e><p><l>узакъ<s n="adj"/></l><r>far<s n="adj"/></r></p></e>
       <e><p><l>юлгю<s n="n"/></l><r>example<s n="n"/></r></p></e>
       <e><p><l>юч<s n="num"/></l><r>three<s n="n"/></r></p></e>
-      <e><p><l>ючюн<s n="pr"/></l><r>for<s n="pr"/></r></p></e>
+      <e><p><l>ючюн<s n="post"/></l><r>for<s n="pr"/></r></p></e>
+      <e><p><l>ючюн<s n="post"/></l><r>to<s n="pr"/></r></p></e>
       <e><p><l>юрен<s n="v"/><s n="iv"/></l><r>learn<s n="vblex"/></r></p></e>
       <e><p><l>юйрет<s n="v"/><s n="tv"/></l><r>teach<s n="vblex"/></r></p></e>
       <e><p><l>юрюрге<s n="v"/></l><r>blow<s n="vblex"/></r></p></e>
