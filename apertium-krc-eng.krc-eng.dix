@@ -186,7 +186,10 @@
       <e><p><l>къыз<s n="n"/></l><r>girl<s n="n"/></r></p></e>
       <e><p><l>мермер<s n="n"/></l><r>marble<s n="n"/></r></p></e>
       <e><p><l>от<s n="n"/></l><r>fire<s n="n"/></r></p></e>
+      <e><p><l>салам<s n="ij"/></l><r>hi<s n="ij"/></r></p></e>
+      <e><p><l>салам<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
       <e><p><l>сат<s n="v"/><s n="tv"/></l><r>sell<s n="vblex"/></r></p></e>
+      <e><p><l>сатып<b/>ал<s n="v"/><s n="tv"/></l><r>buy<s n="vblex"/></r></p></e>
       <e><p><l>сарыубек<s n="n"/></l><r>crocodile<s n="n"/></r></p></e>
       <e><p><l>сарыуек<s n="n"/></l><r>crocodile<s n="n"/></r></p></e>
       <e><p><l>сёз<s n="n"/></l><r>word<s n="n"/></r></p></e>
@@ -268,6 +271,7 @@
       <e><p><l>паровоз<s n="n"/></l><r>steam<b/>engine<s n="n"/></r></p></e>
       <e><p><l>пароход<s n="n"/></l><r>steamship<s n="n"/></r></p></e>
       <e><p><l>патефон<s n="n"/></l><r>патефон<s n="n"/></r></p></e>
+      <e><p><l>патчахлыкъ<s n="n"/></l><r>nation<s n="n"/></r></p></e>
       <e><p><l>пацифист<s n="n"/></l><r>pacifist<s n="n"/></r></p></e>
       <e><p><l>пейзаж<s n="n"/></l><r>landscape<s n="n"/></r></p></e>
       <e><p><l>пил<s n="n"/></l><r>elephant<s n="n"/></r></p></e>
@@ -473,7 +477,8 @@
       <e><p><l>бери<s n="post"/></l><r>since<s n="pr"/></r></p></e>
       <e><p><l>бери<s n="post"/></l><r>after<s n="pr"/></r></p></e>
       <e><p><l>бер<s n="v"/><s n="tv"/></l><r>give<s n="vblex"/></r></p></e>
-      <e><p><l>беш<s n="num"/></l><r>five<s n="n"/></r></p></e>
+      <e><p><l>беш<s n="num"/></l><r>five<s n="num"/></r></p></e>
+      <e><p><l>беш<s n="num"/><s n="ord"/></l><r>fifth<s n="adj"/><s n="ord"/></r></p></e>
       <e><p><l>бет<s n="n"/></l><r>face<s n="n"/></r></p></e>
       <e><p><l>белгили<s n="adj"/></l><r>notable<s n="adj"/></r></p></e>
       <e><p><l>белгили<s n="adj"/></l><r>famous<s n="adj"/></r></p></e>
@@ -484,6 +489,7 @@
       <e><p><l>билдир<s n="v"/><s n="tv"/></l><r>inform<s n="vblex"/></r></p></e>
       <e><p><l>билдир<s n="v"/><s n="tv"/></l><r>let<b/>know<s n="vblex"/></r></p></e>
       <e><p><l>бир<s n="num"/></l><r>one<s n="n"/></r></p></e>
+      <e><p><l>бир<s n="num"/><s n="ord"/></l><r>first<s n="adj"/><s n="ord"/></r></p></e>
       <e><p><l>бирча<s n="adj"/></l><r>same<s n="adj"/></r></p></e>
       <e><p><l>биркъавум<s n="det"/></l><r>some<s n="det"/></r></p></e>
       <e><p><l>бирлик<s n="n"/></l><r>unity<s n="n"/></r></p></e>
@@ -590,6 +596,7 @@
       <e><p><l>ийнам<s n="n"/></l><r>religious<b/>belief<s n="n"/></r></p></e>
       <e><p><l>иудейли<s n="adj"/><s n="subst"/></l><r>Jew<s n="n"/></r></p></e>
       <e><p><l>джан<s n="v"/></l><r>burn<s n="vblex"/></r></p></e>
+      <e><p><l>джаныуар<s n="n"/></l><r>animal<s n="n"/></r></p></e>
       <e><p><l>джангы<s n="adj"/></l><r>new<s n="adj"/></r></p></e>
       <e><p><l>джангур<s n="n"/></l><r>rain<s n="n"/></r></p></e>
       <e><p><l>джарыкъ<s n="adj"/></l><r>bright<s n="adj"/></r></p></e>
@@ -716,6 +723,8 @@
       <e><p><l>къой<s n="v"/><s n="tv"/></l><r>put<s n="vblex"/></r></p></e>
       <e><p><l>къоркъ<s n="v"/><s n="iv"/></l><r>be<b/>scared<s n="vblex"/></r></p></e>
       <e><p><l>къоян<s n="n"/></l><r>rabbit<s n="n"/></r></p></e>
+      <e><p><l>къошунчу<s n="n"/></l><r>neighbour<s n="n"/></r></p></e>
+      <e><p><l>хоншу<s n="n"/></l><r>neighbour<s n="n"/></r></p></e>
       <e><p><l>кёб<s n="prn"/></l><r>much<s n="prn"/></r></p></e>
       <e><p><l>кёк<s n="n"/></l><r>sky<s n="n"/></r></p></e>
       <e><p><l>кёк<s n="n"/></l><r>blue<s n="n"/></r></p></e>
@@ -728,6 +737,7 @@
       <e><p><l>кёp<s n="v"/><s n="tv"/></l><r>see<s n="vblex"/></r></p></e>
       <e><p><l>кёpюн<s n="v"/><s n="iv"/></l><r>be<b/>seen<s n="vblex"/></r></p></e>
       <e><p><l>кёз<s n="n"/></l><r>eye<s n="n"/></r></p></e>
+      <e><p><l>къуй<s n="v"/><s n="tv"/></l><r>pour<s n="vblex"/></r></p></e>
       <e><p><l>къулакъ<s n="n"/></l><r>ear<s n="n"/></r></p></e>
       <e><p><l>къул<s n="n"/></l><r>slave<s n="n"/></r></p></e>
       <e><p><l>къул<s n="n"/></l><r>servant<s n="n"/></r></p></e>
@@ -761,6 +771,7 @@
       <e><p><l>магъана<s n="n"/></l><r>meaning<s n="n"/></r></p></e>
       <e><p><l>мал<s n="n"/></l><r>animal<s n="n"/></r></p></e>
       <e><p><l>мен<s n="prn"/></l><r>I<s n="prn"/></r></p></e>
+      <e><p><l>мёлек<s n="n"/></l><r>angel<s n="n"/></r></p></e>
       <e><p><l>минерге<s n="v"/></l><r>ride<s n="vblex"/></r></p></e>
       <e><p><l>минг<s n="num"/></l><r>thousand<s n="n"/></r></p></e>
       <e><p><l>мийик<s n="adj"/></l><r>high<s n="adj"/></r></p></e>
@@ -860,6 +871,7 @@
       <e><p><l>тавуш<s n="n"/></l><r>sound<s n="n"/></r></p></e>
       <e><p><l>тай<s n="n"/></l><r>colt<s n="n"/></r></p></e>
       <e><p><l>таякъ<s n="n"/></l><r>ray<s n="n"/></r></p></e>
+      <e><p><l>тахта<s n="n"/></l><r>throne<s n="n"/></r></p></e>
       <e><p><l>теббе<s n="n"/></l><r>top<s n="n"/></r></p></e>
       <e><p><l>Теберди<s n="n"/></l><r>the<b/>Teberdi<b/>river<s n="n"/></r></p></e>
       <e><p><l>тели<s n="adj"/></l><r>foolish<s n="adj"/></r></p></e>
@@ -938,6 +950,7 @@
       <e><p><l>Муса<s n="np"/><s n="ant"/><s n="m"/></l><r>Moses<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Адам<s n="np"/><s n="ant"/><s n="m"/></l><r>Adam<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Илияс<s n="np"/><s n="ant"/><s n="m"/></l><r>Elijah<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+      <e><p><l>Нух<s n="np"/><s n="ant"/><s n="m"/></l><r>Noah<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
       <e><p><l>Сыйлы<b/>Нюр<s n="n"/></l><r>Holy<b/>Spirit<s n="n"/></r></p></e>
 
 		<e r="RL"><p><l></l><r>in<s n="pr"/></r></p></e>
@@ -947,6 +960,7 @@
 		<e r="RL"><p><l></l><r>competition<s n="n"/></r></p></e>
 		
 		<e><p><l>тур<s n="vaux"/></l><r>be<s n="vbser"/></r></p></e>
+		<e r="LR"><p><l>ал<s n="vaux"/></l><r></r></p></e>
 		<e r="LR"><p><l>мы<s n="qst"/></l><r></r></p></e>
 
 

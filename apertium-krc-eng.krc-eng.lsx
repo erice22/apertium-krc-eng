@@ -13,6 +13,8 @@
 		<sdef n="iv"/>
 		<sdef n="vblex"/>
 		<sdef n="vbser"/>
+		<sdef n="vaux"/>
+		<sdef n="prc_perf"/>
 		<sdef n="det"/>
 		<sdef n="loc"/>
 		<sdef n="attr"/>
@@ -84,6 +86,13 @@
 			<p>
 				<l>дин<s n="n"/><s n="attr"/><d/>къуллукъчу<s n="n"/></l>
 				<r>дин<b/>къуллукъчу<s n="n"/></r>
+			</p>
+			<i><t/><d/></i>
+		</e>
+		<e lm="сатып ал" c="buy">
+			<p>
+				<l>сат<s n="v"/><s n="tv"/><s n="prc_perf"/><d/>ал<s n="vaux"/></l>
+				<r>сатып<b/>ал<s n="v"/><s n="tv"/></r>
 			</p>
 			<i><t/><d/></i>
 		</e>
